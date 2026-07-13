@@ -1,0 +1,396 @@
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+  /* Default styles for container */
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  width: 100%;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 576px) {
+
+  .container,
+  .container-sm {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+
+  .container,
+  .container-md,
+  .container-sm {
+    max-width: 760px;
+  }
+}
+
+@media (min-width: 992px) {
+
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm {
+    max-width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+
+  .container,
+  .container-lg,
+  .container-md,
+  .container-xl {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+
+/* ********************************************************************** */
+
+.top_header {
+  /* background-color: rgb(15, 74, 133); */
+}
+
+.top_header .right_side {
+  position: relative;
+}
+
+@media (max-width: 991px) {
+  .top_header {
+    position: relative;
+    border: none;
+    /* background-color: rgb(15, 74, 133); */
+  }
+}
+
+@media (max-width: 991px) {
+  .top_header .left_side {
+    display: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .top_header .right_side {
+    position: static;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding-left: 1rem;
+    align-items: center;
+  }
+}
+
+@media (max-width: 991px) {
+  .top_header {
+    position: relative;
+    border: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .top_header {
+    /* background-color: rgb(15, 74, 133); */
+  }
+}
+
+/* ************************** Heading for section *********************************************** */
+
+.top_box_wrap .about_heading .sec_head {
+  display: flex;
+  height: 100%;
+}
+
+.about_heading .sec_head {
+  line-height: 1.2;
+}
+
+.sec_head {
+  color: #212122;
+  font-size: 2.5rem;
+  font-family: "Roboto Slab", serif;
+  margin-bottom: 2.188rem;
+  font-weight: 400;
+}
+
+@media (max-width: 767px) {
+  .sec_head {
+    font-size: 2rem;
+    margin-bottom: 1.563rem;
+  }
+}
+
+/* ************************    Recruiters ******************************************** */
+.recruiters_flex {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: -2rem;
+  margin: 0 -1rem;
+  margin-bottom: -3rem;
+}
+
+.recruiters_flex li {
+  width: calc(100% / 5);
+  padding: 0 1.5rem;
+  margin-bottom: 3rem;
+}
+
+@media (max-width: 767px) {
+  .recruiters_flex li {
+    width: calc(100% / 2);
+    margin-bottom: 1.5rem;
+    padding: 0 1rem;
+  }
+}
+
+.recruiters_flex li img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.recruiter_box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 100px; */
+  background: #fff;
+  border: 1px solid #ccc;
+}
+
+@media (max-width: 767px) {
+  .recruiter_box {
+    /* height: 75px; */
+    padding: 0;
+  }
+}
+
+/* for breadcrumbs */
+
+.page-title-content nav ol {
+  margin: 0;
+  border-radius: 0;
+}
+
+.page-title-content .breadcrumb-item a {
+  color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.active_breadcrumbs,
+.active_breadcrumbs a {
+  color: #ffb703 !important;
+  cursor: default;
+  font-weight: 600;
+  pointer-events: none;
+  font-size: 18px;
+}
+
+.page-title-content .breadcrumb-item+.breadcrumb-item::before {
+  content: "/ ";
+  color: #ffff;
+}
+
+/* Enquiry Form in Admission Process */
+/* .enquiry_form_footer {
+  overflow: hidden;
+}
+.enquiry_form_footer {
+  position: relative;
+  padding-bottom: 5rem;
+}
+
+.enquiry_form_bg {
+  z-index: -1;
+  left: 5.313rem;
+  width: calc(100% + 86.5px);
+  position: absolute;
+  height: 100%;
+}
+
+.enquiry_form_bg > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 18px 0 0 18px;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.enquiry_form_inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.enquiry_form_inner .enquiry_form_left {
+  width: 40%;
+}
+@media (max-width: 767px) {
+  .enquiry_form_left {
+    display: none;
+  }
+}
+
+.enquiry_form_inner .enquiry_form_left img {
+  border-radius: 18px;
+  width: 100%;
+}
+
+.enquiry_form_inner .enquiry_form_right {
+  width: 50%;
+  padding: 5rem 0;
+}
+
+@media (max-width: 767px) {
+  .enquiry_form_inner .enquiry_form_right {
+    width: 100%;
+  }
+} */
+
+/* Enquiry Form Footer */
+.enquiry_form_footer {
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 5rem;
+}
+
+/* Background Styling */
+.enquiry_form_bg {
+  position: absolute;
+  z-index: -1;
+  left: 25%;
+  width: calc(100% + 86.5px);
+  height: 100%;
+}
+
+.enquiry_form_bg>img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 18px 0 0 18px;
+}
+
+/* General Utility */
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Form Inner Container */
+.enquiry_form_inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.enquiry_form_inner .enquiry_form_left {
+  width: 100%;
+  max-width: 400px;
+}
+
+.enquiry_form_inner .enquiry_form_left img {
+  border-radius: 18px;
+  width: 100%;
+}
+
+/* Form Right Section */
+.enquiry_form_inner .enquiry_form_right {
+  width: 100%;
+  padding: 6rem 0rem 6rem 6rem;
+
+}
+
+/* Responsive Adjustments */
+@media (max-width: 767px) {
+  /* .enquiry_form_left {
+    display: none;
+  } */
+
+  .enquiry_form_bg {
+    left: 0;
+    /* Align background image to the start */
+    width: 100%;
+    /* Full width for the background image */
+  }
+
+  .enquiry_form_inner {
+    display: block;
+    /* Stack content vertically */
+    padding: 0 1rem;
+    /* Add padding for better appearance */
+  }
+
+  .enquiry_form_inner .enquiry_form_right {
+    width: 100%;
+    /* Form takes full width */
+    padding: 3rem 0;
+    /* Adjust padding */
+  }
+}
+
+@media (max-width:1199px) {
+  .enquiry_form_inner .enquiry_form_left {
+    width: 100%;
+    max-width: 350px;
+  }
+
+  .enquiry_form_bg {
+    position: absolute;
+    z-index: -1;
+    left: 20%;
+    width: calc(100% + 86.5px);
+    height: 100%;
+  }
+
+  .enquiry_form_inner .enquiry_form_right {
+    width: 100%;
+    padding: 6rem 0rem 6rem 3rem;
+
+  }
+}
+
+@media (max-width:1024px) {
+  .enquiry_form_bg {
+    position: absolute;
+    z-index: -1;
+    left: 0%;
+    width: calc(100% + 86.5px);
+    height: 100%;
+  }
+
+  .enquiry_form_inner .enquiry_form_right {
+    width: 100%;
+    padding: 3rem 0rem 3rem 0rem;
+
+  }
+}
+
+
+
+@media(max-width:992px) {
+  .enquiry_form_inner .enquiry_form_left {
+    display: none;
+  }
+}
+
+
+@media(max-width:992px) {
+  .enquiry_form_footer {
+    padding-bottom: 2rem;
+  }
+}

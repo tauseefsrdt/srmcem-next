@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60">
+  <rect width="220" height="60" fill="white"/>
+  <polygon points="10,50 30,10 50,50" fill="#E63027" opacity="0.9"/>
+  <polygon points="25,50 45,10 65,50" fill="#E63027" opacity="0.6"/>
+  <text x="145" y="30" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1a1a1a" text-anchor="middle">Prism</text>
+  <text x="145" y="48" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#E63027" text-anchor="middle">JOHNSON LTD.</text>
+</svg>

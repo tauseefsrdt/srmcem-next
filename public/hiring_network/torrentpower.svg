@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60">
+  <rect width="220" height="60" fill="white"/>
+  <polygon points="30,10 22,32 32,32 20,52 40,28 28,28" fill="#E31E25"/>
+  <text x="135" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1a1a1a" text-anchor="middle">Torrent</text>
+  <text x="135" y="48" font-family="Arial, sans-serif" font-size="14" font-weight="500" fill="#E31E25" text-anchor="middle">POWER</text>
+</svg>

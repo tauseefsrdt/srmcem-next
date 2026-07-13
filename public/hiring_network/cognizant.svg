@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60">
+  <rect width="220" height="60" fill="white"/>
+  <text x="110" y="38" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1E2D78" text-anchor="middle">Cognizant</text>
+  <rect x="20" y="44" width="180" height="3" fill="#1E2D78" rx="1"/>
+</svg>

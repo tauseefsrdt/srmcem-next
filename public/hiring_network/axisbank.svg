@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <rect width="200" height="60" fill="white"/>
+  <polygon points="15,48 30,12 45,48" fill="#97144D"/>
+  <text x="125" y="32" font-family="Arial Black, sans-serif" font-size="18" font-weight="900" fill="#97144D" text-anchor="middle">AXIS</text>
+  <text x="125" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="500" fill="#555" text-anchor="middle">BANK</text>
+</svg>

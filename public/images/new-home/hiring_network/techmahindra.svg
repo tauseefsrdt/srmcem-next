@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 60" width="260" height="60">
+  <rect width="260" height="60" fill="white"/>
+  <polygon points="15,10 35,30 15,50 10,30" fill="#00A651"/>
+  <text x="150" y="32" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#00A651" text-anchor="middle">Tech Mahindra</text>
+</svg>

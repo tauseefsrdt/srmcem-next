@@ -1,0 +1,43 @@
+{
+  "name": "srmcem-next-today-temp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@fancyapps/ui": "^5.0.36",
+    "@reduxjs/toolkit": "^2.12.0",
+    "axios": "^1.18.1",
+    "axios-retry": "^4.5.0",
+    "formik": "^2.4.9",
+    "next": "16.2.10",
+    "react": "19.2.4",
+    "react-countup": "^6.5.3",
+    "react-dom": "19.2.4",
+    "react-hot-toast": "^2.6.0",
+    "react-icons": "^5.7.0",
+    "react-infinite-scroll-component": "^7.2.1",
+    "react-intersection-observer": "^10.1.0",
+    "react-redux": "^9.3.0",
+    "react-slick": "^0.31.0",
+    "slick-carousel": "^1.8.1",
+    "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/react-slick": "^0.23.13",
+    "autoprefixer": "^10.5.2",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.10",
+    "postcss": "^8.5.18",
+    "tailwindcss": "^3.4.14",
+    "typescript": "^5"
+  }
+}

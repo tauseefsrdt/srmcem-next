@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 60" width="160" height="60">
+  <rect width="160" height="60" fill="white"/>
+  <circle cx="30" cy="30" r="18" fill="#003478"/>
+  <text x="30" y="35" font-family="Arial Black, sans-serif" font-size="9" font-weight="900" fill="white" text-anchor="middle">BHEL</text>
+  <text x="105" y="38" font-family="Arial Black, sans-serif" font-size="24" font-weight="900" fill="#003478" text-anchor="middle">BHEL</text>
+</svg>
