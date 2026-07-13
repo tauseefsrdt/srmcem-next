@@ -86,7 +86,7 @@ const CentralLibrary: React.FC = () => {
         <div className="grid-iqac-card hide-arrow">
           <Slider ref={sliderRef} {...settings}>
             {sectionsAndServicesCardsData?.map((card, index) => {
-              length = sectionsAndServicesCardsData.length;
+              const length = sectionsAndServicesCardsData.length;
               return (
                 <div className={`p-1 justify-center items-center`} key={index}>
                   <IqacCard

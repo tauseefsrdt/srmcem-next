@@ -49,7 +49,7 @@ const IQAC: React.FC = () => {
         <h2 className="text-3xl font-bold mb-8 text-start">IQAC Policy</h2>
         <div className="grid-iqac-card manage main mb-5">
           {iqacCards?.map((card, index) => {
-            length = iqacCards.length;
+            const length = iqacCards.length;
             return (
               <IqacCard
                 length={length}

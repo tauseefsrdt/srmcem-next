@@ -60,7 +60,7 @@ const FacilitiesOther: React.FC = () => {
         <h2 className="text-3xl lg:text-4xl text-center  leading-8 pr-4 p-5 py-12 font-bold">Additional Facilities</h2>
         <div className=" mt-8 grid-iqac-card mb-5">
           {FacilitiesOtherCardsData?.map((card, index) => {
-            length = FacilitiesOtherCardsData?.length;
+            const length = FacilitiesOtherCardsData?.length;
             return <IqacCard length={length} index={index} key={index} title={card?.title} icon={card?.icon} description={card?.description} colorCode={"bg-[#233E6F]"} />;
           })}
         </div>
