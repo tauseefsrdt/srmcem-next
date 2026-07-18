@@ -29,6 +29,13 @@ const NoticeListing: React.FC = () => {
     dispatch(getNoticeData());
   }, []);
 
+  useEffect(() => {
+    if (data) {
+      setItems(data.slice(0, 10));
+      setHasMore(data.length > 10);
+    }
+  }, [data]);
+
   if (loading) return <p>Loading notices...</p>;
   if (error) return <p>Error: {error}</p>;
 

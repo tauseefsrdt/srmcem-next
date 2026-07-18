@@ -16,6 +16,14 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  async rewrites() {
+    return [
+      {
+        source: "/api-proxy/9031/:path*",
+        destination: "https://adminpre.srmcem.ac.in:9031/:path*",
+      },
+    ];
+  },
 };
 
 export default nextConfig;
