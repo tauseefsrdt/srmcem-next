@@ -17,7 +17,7 @@ const CopyrightFooter: React.FC = () => {
               <span className="ml-4">|</span>
             </li>
             <li>
-              <Link href={"/T&C"}> Terms and Conditions</Link>
+              <Link href={"/terms-and-conditions"}> Terms and Conditions</Link>
             </li>
           </ul>
           <p className="text-sm text-white">
