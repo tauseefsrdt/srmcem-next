@@ -1,4 +1,5 @@
 
+import Link from 'next/link';
 import Icon from './Icon';
 const nirf = "/pdf/nirf/NIRF-2026.pdf";
 
@@ -30,14 +31,14 @@ const TopBar = () => {
             <Icon name="star" className="!w-3.5 !h-3.5" />
             UPTAC-2026-27
           </a> */}
-          <a href={nirf || '#'}  className="hidden lg:inline-flex items-center gap-1.5 px-3.5 py-1 rounded-pill text-[11px] font-bold  uppercase bg-white/[0.08] text-white shadow-[inset_0_0_0_1px_rgba(255,255,255,0.16)] transition duration-200 hover:bg-white/[0.16] hover:-translate-y-px">
+          <a href={nirf || '#'} className="hidden lg:inline-flex items-center gap-1.5 px-3.5 py-1 rounded-pill text-[11px] font-bold  uppercase bg-white/[0.08] text-white shadow-[inset_0_0_0_1px_rgba(255,255,255,0.16)] transition duration-200 hover:bg-white/[0.16] hover:-translate-y-px">
             <Icon name="chart" className="w-3.5 h-3.5" /> NIRF-2026
           </a>
         </div>
 
         {/* Right: Notice Board (md+) + Result (lg+) + Apply Now (always) */}
         <div className="flex items-center gap-2 md:gap-3">
-          <a href="/notice" className={`hidden md:inline-flex items-center gap-1.5 ${btnOutline}`}><Icon name="bell" className="w-3.5 h-3.5" /> Notice Board</a>
+          <Link href="/notice" className={`hidden md:inline-flex items-center gap-1.5 ${btnOutline}`}><Icon name="bell" className="w-3.5 h-3.5" /> Notice Board</Link>
           <a target='_blank' href="https://erp.aktu.ac.in/WebPages/OneView/OneView.aspx" className={`hidden lg:inline-flex items-center gap-1.5 ${btnOutline}`}><Icon name="chart" className="w-3.5 h-3.5" /> Result</a>
           <a
             href="/enquiry-form"

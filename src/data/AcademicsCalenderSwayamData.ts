@@ -59,22 +59,23 @@ const StudentCouncilMeetings10 = "/pdf/academicCalendars/StudentCouncilMeetings/
 const geek_for_geeks = "/pdf/academicsCalender/Gouri Lavania _OfferLetter.pdf";
 const benifit = "/pdf/academicsCalender/NPTEL records at glance2023.pdf";
 
-const activityPlan2502 = "/pdf/academicCalendars/activityPlanner/Activity Planner_B.Tech., MBA & MCA_2502 (1).pdf";//
-const activityPlan2501_1 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_B. Tech. 4th Year_28 July 2025 (1).pdf";//
-const activityPlan2501_2 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_B. Tech. I Year_25 August 2025.pdf";//
+const activityPlan2502 = "/pdf/academicCalendars/activityPlanner/Activity Planner_B.Tech., MBA & MCA_2502 (1).pdf"; //
+const activityPlan2501_1 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_B. Tech. 4th Year_28 July 2025 (1).pdf"; //
+const activityPlan2501_2 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_B. Tech. I Year_25 August 2025.pdf"; //
 const activityPlan2501_3 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_B.Tech 3 Year_21 August 2025.pdf"; //
-const activityPlan2501_4 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_B.Tech 3 Year_31 July 2025.pdf";//
-const activityPlan2501_5 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_B.Tech II Year_25 August 2025.pdf";//
-const activityPlan2501_6 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_B.Tech. 4th Year_20 August 2025.pdf";//
-const activityPlan2501_7 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_MBA 2 Year_03 September 2025.pdf";//
-const activityPlan2501_8 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_MCA I Year_25 August 2025.pdf";//
+const activityPlan2501_4 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_B.Tech 3 Year_31 July 2025.pdf"; //
+const activityPlan2501_5 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_B.Tech II Year_25 August 2025.pdf"; //
+const activityPlan2501_6 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_B.Tech. 4th Year_20 August 2025.pdf"; //
+const activityPlan2501_7 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_MBA 2 Year_03 September 2025.pdf"; //
+const activityPlan2501_8 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_MCA I Year_25 August 2025.pdf"; //
 const activityPlan2501_9 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2501_MCA II Year_25 August 2025.pdf";
 const activityPlan2501_10 = "/pdf/academicCalendars/activityPlanner/Activity Planner_2601_B.Tech. II, III, IV & MCA II Year_03 June 2026 (1).pdf";
-
+const button1 = "/pdf/academicsCalender/Academic Calendar_2601_B.Tech. II, III, IV & MCA II Year_11 July 2026.pdf";
+const button2 = "/pdf/academicsCalender/Academic Calendar_2601_MBA II Year_ 11 July 2026.pdf";
+const button3 = "/pdf/academicsCalender/Activity Planner_2601_B.Tech. II, III, IV & MCA II Year_11 July 2026.pdf";
+const button4 = "/pdf/academicsCalender/Activity Planner_2601_MBA II Year_11 July 2026.pdf";
 const excelFileUrlIEEE =
   "https://srdtpvtltd-my.sharepoint.com/personal/mili_srivastava_srdt_co_in/Documents/Saurabh/srmcm-ui/src/assets/pdf/academicsCalender/IEEE%20Event%20Conduction.xlsx?web=1";
-
-
 
 export const ActivityPlannaer = [
   {
@@ -82,57 +83,66 @@ export const ActivityPlannaer = [
     title: "Activity Planner",
     downloadText: "Downloads",
     childData: [
-      {
-        id: 10,
-        heading: "Activity Planner_2601_B.Tech. II, III, IV & MCA II Year_03 June 2026 (1)",
-        buttonLink: activityPlan2501_10,
-      },
-      {
-        id: 0,
-        heading: "Activity Planner B.Tech., MBA & MCA (Even Sem)",
-        buttonLink: activityPlan2502,
-      }, {
-        id: 1,
-        heading: "Activity Planner B.Tech. 4th Year 28 July 2025",
-        buttonLink: activityPlan2501_1,
-      }, {
-        id: 2,
-        heading: "Activity Planner B.Tech. I Year 25 August 2025",
-        buttonLink: activityPlan2501_2,
-      }, {
-        id: 3,
-        heading: "Activity Planner B.Tech 3 Year 21 August 2025",
-        buttonLink: activityPlan2501_3,
-      }, {
-        id: 4,
-        heading: "Activity Planner B.Tech 3 Year 31 July 2025",
-        buttonLink: activityPlan2501_4,
-      }, {
-        id: 5,
-        heading: "Activity Planner B.Tech II Year 25 August 2025",
-        buttonLink: activityPlan2501_5,
-      }, {
-        id: 6,
-        heading: "Activity Planner B.Tech. 4th Year 20 August 2025",
-        buttonLink: activityPlan2501_6,
-      }, {
-        id: 7,
-        heading: "Activity Planner MBA 2 Year 03 September 2025",
-        buttonLink: activityPlan2501_7,
-      }, {
-        id: 8,
-        heading: "Activity Planner MCA I Year 25 August 2025",
-        buttonLink: activityPlan2501_8,
-      }, {
-        id: 9,
-        heading: "Activity Planner MCA II Year 25 August 2025",
-        buttonLink: activityPlan2501_9,
-      },
+      // {
+      //   id: 10,
+      //   heading: "Activity Planner_2601_B.Tech. II, III, IV & MCA II Year_03 June 2026 (1)",
+      //   buttonLink: activityPlan2501_10,
+      // },
+      // {
+      //   id: 0,
+      //   heading: "Activity Planner B.Tech., MBA & MCA (Even Sem)",
+      //   buttonLink: activityPlan2502,
+      // }, {
+      //   id: 1,
+      //   heading: "Activity Planner B.Tech. 4th Year 28 July 2025",
+      //   buttonLink: activityPlan2501_1,
+      // }, {
+      //   id: 2,
+      //   heading: "Activity Planner B.Tech. I Year 25 August 2025",
+      //   buttonLink: activityPlan2501_2,
+      // }, {
+      //   id: 3,
+      //   heading: "Activity Planner B.Tech 3 Year 21 August 2025",
+      //   buttonLink: activityPlan2501_3,
+      // }, {
+      //   id: 4,
+      //   heading: "Activity Planner B.Tech 3 Year 31 July 2025",
+      //   buttonLink: activityPlan2501_4,
+      // }, {
+      //   id: 5,
+      //   heading: "Activity Planner B.Tech II Year 25 August 2025",
+      //   buttonLink: activityPlan2501_5,
+      // }, {
+      //   id: 6,
+      //   heading: "Activity Planner B.Tech. 4th Year 20 August 2025",
+      //   buttonLink: activityPlan2501_6,
+      // }, {
+      //   id: 7,
+      //   heading: "Activity Planner MBA 2 Year 03 September 2025",
+      //   buttonLink: activityPlan2501_7,
+      // }, {
+      //   id: 8,
+      //   heading: "Activity Planner MCA I Year 25 August 2025",
+      //   buttonLink: activityPlan2501_8,
+      // }, {
+      //   id: 9,
+      //   heading: "Activity Planner MCA II Year 25 August 2025",
+      //   buttonLink: activityPlan2501_9,
+      // },
 
+      {
+        id: 1,
+        heading: "Activity Planner_2601_B.Tech. II, III, IV & MCA II Year",
+        buttonLink: button3,
+      },
+      {
+        id: 1,
+        heading: "Activity Planner_2601_MBA II Year",
+        buttonLink: button4,
+      },
     ],
   },
 ];
-
 
 export const academicCalendarsForEvenSemesterData1 = [
   {
@@ -140,55 +150,67 @@ export const academicCalendarsForEvenSemesterData1 = [
     title: "Academic Calendars",
     downloadText: "Downloads",
     childData: [
+      // {
+      //   id: 10,
+      //   heading: "Academic Calendar_2601_B.Tech. II, III, IV & MCA II Year_03 June 2026",
+      //   buttonLink: evn13,
+      // },
+      // {
+      //   id: 9,
+      //   heading: "Academic Calendar B.Tech,MBA & MCA Session 2025-26 (Even Sem) ",
+      //   buttonLink: evn12,
+      // },
+      // {
+      //   id: 8,
+      //   heading: "Academic Calendar MCA (1st Year)-Session 2025-26 (Odd Sem)",
+      //   buttonLink: evn8,
+      // },
+      // {
+      //   id: 7,
+      //   heading: "Academic Calendar MCA (2nd Year)-Session 2025-26 (Odd Sem)",
+      //   buttonLink: evn9,
+      // },
+      // {
+      //   id: 6,
+      //   heading: "Academic Calendar B.Tech (1st Year)-Session 2025-26 (Odd Sem)",
+      //   buttonLink: evn6,
+      // },
+      // {
+      //   id: 5,
+      //   heading: "Academic Calendar B.Tech (2nd Year)-Session 2025-26 (Odd Sem)",
+      //   buttonLink: evn7,
+      // },
+      // {
+      //   id: 9,
+      //   heading: "Academic Calendar B.Tech (3rd Year)-Session 2025-26 (Odd Sem)",
+      //   buttonLink: evn10,
+      // },
+      // {
+      //   id: 10,
+      //   heading: "Academic Calendar B.Tech (4th Year)-Session 2025-26 (Odd Sem)",
+      //   buttonLink: evn11,
+      // },
+      // {
+      //   id: 4,
+      //   heading: "Academic Calendar MBA (1st Year)-Session 2025-26 (Odd Sem)",
+      //   buttonLink: evn5,
+      // },
+      // {
+      //   id: 3,
+      //   heading: "Academic Calendar MBA (2 Year)-Session 2025-26 (Odd Sem)",
+      //   buttonLink: evn4,
+      // },
+
       {
-        id: 10,
-        heading: "Academic Calendar_2601_B.Tech. II, III, IV & MCA II Year_03 June 2026",
-        buttonLink: evn13,
+        id: 1,
+        heading: "Academic Calendar_2601_B.Tech. II, III, IV & MCA II Year",
+        buttonLink: button1,
       },
+
       {
-        id: 9,
-        heading: "Academic Calendar B.Tech,MBA & MCA Session 2025-26 (Even Sem) ",
-        buttonLink: evn12,
-      },
-      {
-        id: 8,
-        heading: "Academic Calendar MCA (1st Year)-Session 2025-26 (Odd Sem)",
-        buttonLink: evn8,
-      },
-      {
-        id: 7,
-        heading: "Academic Calendar MCA (2nd Year)-Session 2025-26 (Odd Sem)",
-        buttonLink: evn9,
-      },
-      {
-        id: 6,
-        heading: "Academic Calendar B.Tech (1st Year)-Session 2025-26 (Odd Sem)",
-        buttonLink: evn6,
-      },
-      {
-        id: 5,
-        heading: "Academic Calendar B.Tech (2nd Year)-Session 2025-26 (Odd Sem)",
-        buttonLink: evn7,
-      },
-      {
-        id: 9,
-        heading: "Academic Calendar B.Tech (3rd Year)-Session 2025-26 (Odd Sem)",
-        buttonLink: evn10,
-      },
-      {
-        id: 10,
-        heading: "Academic Calendar B.Tech (4th Year)-Session 2025-26 (Odd Sem)",
-        buttonLink: evn11,
-      },
-      {
-        id: 4,
-        heading: "Academic Calendar MBA (1st Year)-Session 2025-26 (Odd Sem)",
-        buttonLink: evn5,
-      },
-      {
-        id: 3,
-        heading: "Academic Calendar MBA (2 Year)-Session 2025-26 (Odd Sem)",
-        buttonLink: evn4,
+        id: 2,
+        heading: "Academic Calendar_2601_MBA II Year",
+        buttonLink: button2,
       },
     ],
   },
