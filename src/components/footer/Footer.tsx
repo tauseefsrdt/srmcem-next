@@ -106,6 +106,11 @@ export const footerData = {
       title: "Newsletters",
       path: "/newsletters",
     },
+    {
+      id: 2,
+      title: "Blogs",
+      path: "/blogs",
+    },
   ],
   getResponsible: [
     {
@@ -263,12 +268,12 @@ const Footer: React.FC = () => {
                   <li key={index}>
                     <div className="flex items-center group hover:text-[#ffb703] ">
                       {link.title === "Mandatory Disclosure" || link.title === "Anti-Sexual Harassment - IIC" ? (
-                        <a href={link.path || '#'}  target="_blank" className=" text-[14px]  group-hover:text-[#ffb703]">
+                        <a href={link.path || '#'} target="_blank" className=" text-[14px]  group-hover:text-[#ffb703]">
                           {" "}
                           {link.title}
                         </a>
                       ) : (
-                        <Link href={link.path || '#'}  className=" text-[14px] text-white group-hover:text-[#ffb703]">
+                        <Link href={link.path || '#'} className=" text-[14px] text-white group-hover:text-[#ffb703]">
                           {link.title}
                         </Link>
                       )}
@@ -282,11 +287,11 @@ const Footer: React.FC = () => {
                   <li key={index}>
                     <div className="flex items-center group hover:text-[#ffb703]">
                       {link.title === "Grievance Redressal" ? (
-                        <a href={link.path || '#'}  target="_blank" className=" text-[14px] text-white group-hover:text-[#ffb703]">
+                        <a href={link.path || '#'} target="_blank" className=" text-[14px] text-white group-hover:text-[#ffb703]">
                           {link.title}
                         </a>
                       ) : (
-                        <Link href={link.path || '#'}  className=" text-[14px] text-white group-hover:text-[#ffb703]">
+                        <Link href={link.path || '#'} className=" text-[14px] text-white group-hover:text-[#ffb703]">
                           {link.title}
                         </Link>
                       )}
@@ -302,12 +307,12 @@ const Footer: React.FC = () => {
                   <li key={index}>
                     <div className="flex items-center group hover:text-[#ffb703] ">
                       {link.title === "Anti-Sexual Harassment - ICC" || link.title === "Grievance Redressal System" ? (
-                        <a href={link.path || '#'}  target="_blank" className=" text-[14px]  group-hover:text-[#ffb703]">
+                        <a href={link.path || '#'} target="_blank" className=" text-[14px]  group-hover:text-[#ffb703]">
 
                           {link.title}
                         </a>
                       ) : (
-                        <Link href={link.path || '#'}  className=" text-[14px] text-white group-hover:text-[#ffb703]">
+                        <Link href={link.path || '#'} className=" text-[14px] text-white group-hover:text-[#ffb703]">
                           {link.title}
                         </Link>
                       )}
@@ -320,7 +325,7 @@ const Footer: React.FC = () => {
                 {footerData.getEnrolled.map((link, index) => (
                   <li key={index}>
                     <div className="flex items-center group hover:text-[#ffb703]">
-                      <Link href={link.path || '#'}  className={`text-[14px] text-white group-hover:text-[#ffb703] }`}>
+                      <Link href={link.path || '#'} className={`text-[14px] text-white group-hover:text-[#ffb703] }`}>
                         {link.title}
                       </Link>
                     </div>
