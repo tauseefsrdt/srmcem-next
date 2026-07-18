@@ -5,6 +5,7 @@ import { store } from "../store/index";
 import { Toaster } from "react-hot-toast";
 import { useRouter } from "next/router";
 import Link from "next/link";
+import Head from "next/head";
 import Header from "../components/header/Header";
 import Footer from "../components/footer/Footer";
 import CopyrightFooter from "../components/footer/CopyrightFooter";
@@ -85,6 +86,7 @@ const Breadcrumbs = () => {
     "privacy-policy": "Privacy Policy",
     disclaimer: "Disclaimer",
     "terms-and-conditions": "Terms and Condition",
+    blogs: "Blogs",
   };
 
   const crumbs = [];
@@ -186,6 +188,13 @@ export default function App({ Component, pageProps }: AppProps) {
 
   return (
     <Provider store={store}>
+      <Head>
+        <title>Shri Ramswaroop Memorial College of Engineering and Management (SRMCEM)</title>
+        <meta name="description" content="SRMCEM has achieved distinction for its value-based institutional culture. Focus on in-depth knowledge and employability enhancement goes hand in hand at SRMCEM. SRMCEM is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow." />
+        <meta name="author" content="SRMCEM" />
+        <meta name="keywords" content="SRMCEM, Engineering College, Lucknow, AKTU, BTech, MCA, Engineering, Management" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </Head>
       <Header />
       <main className="mt-[51px]">
         {router.pathname !== "/" && <Breadcrumbs />}

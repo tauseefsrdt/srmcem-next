@@ -75,99 +75,99 @@ const Header = () => {
                 <div className="flex items-center justify-center h-full ">
                   <nav className="flex lg:gap-2 xl:gap-3  2xl:gap-4 ">
                     {bottomHeaderData[0].navitems.map((data, index) => {
-
                       return (
-                        <>
-                          {
-                            data.href ? <a
+                        <div key={index} className="relative group text-white py-6 text-sm uppercase cursor-pointer">
+                          {data.href ? (
+                            <a
                               target="_blank"
-                              className={`  relative group    py-6 text-sm uppercase cursor-pointer ${location.pathname === data.path ? "active" : ""
-                                }   [&.active]:text-white`}
+                              className={`relative block ${location.pathname === data.path ? "active" : ""} [&.active]:text-white`}
                               onClick={() => window.open(data.path, "_blank")}
                             >
-                              <span className={`flex items-center text-white ${isActive ? "text-white" : location.pathname !== "/" ? "text-white" : ""
-                                } hover:text-white`}>{data.item}</span>
-
-                            </a> : <Link href={data.path || '#'} 
-                              key={index}
-                                className={` relative group text-white   py-6 text-sm uppercase cursor-pointer ${location.pathname === data.path ? "active" : ""
-                                }   `}
+                              <span className={`flex items-center text-white ${isActive ? "text-white" : location.pathname !== "/" ? "text-white" : ""} hover:text-white`}>
+                                {data.item}
+                              </span>
+                            </a>
+                          ) : (
+                            <Link
+                              href={data.path || '#'}
+                              className={`relative block ${location.pathname === data.path ? "active" : ""}`}
                             >
-                                <span className={`flex items-center   ${isActive ? "text-white" : location.pathname !== "/" ? "text-white" : ""
-                                } hover:text-white`}>{data.item}</span>
-                              {data?.subItem && (
-                                <div className={`absolute top-[59px] xl:top-[60px] right-0 bg-white rounded-md  manage-shadow-drop-down`}>
-                                  {data?.subItem && <span className="hidden group-hover:block manage-top-arrow"></span>}
-                                  <ul
-                                      className={`transition-all w-full min-w-[250px] duration-300 text-[#212529]   h-full overflow-hidden max-h-0 group-hover:max-h-[500px] group-hover:border rounded-md border-[#ffb703]  group-hover:overflow-y-auto hide-scrollbar`}
-                                  >
-                                    {/* <span className="w-full block h-1 bg-[#ffb703]"></span> */}
-                                    {data?.subItem.map((value, ind) => {
-                                      return (
+                              <span className={`flex items-center ${isActive ? "text-white" : location.pathname !== "/" ? "text-white" : ""} hover:text-white`}>
+                                {data.item}
+                              </span>
+                            </Link>
+                          )}
+
+                          {data?.subItem && (
+                            <div className="absolute top-[59px] xl:top-[60px] right-0 bg-white rounded-md manage-shadow-drop-down">
+                              <span className="hidden group-hover:block manage-top-arrow"></span>
+                              <ul className="transition-all w-full min-w-[250px] duration-300 text-[#212529] h-full overflow-hidden max-h-0 group-hover:max-h-[500px] group-hover:border rounded-md border-[#ffb703] group-hover:overflow-y-auto hide-scrollbar">
+                                {data.subItem.map((value, ind) => {
+                                  return (
+                                    <li key={ind} className={`text-nowrap relative block parentclass font-normal ${ind == 0 ? "" : "border-t"}`}>
+                                      {value.item !== "SC/ST Committee" && value.item !== "WebOPAC" ? (
                                         <>
-                                          {value.item !== "SC/ST Committee" && value.item !== "WebOPAC" ? (
-                                            <Link
-                                              key={ind}
-                                              href={value.path || '#'} 
-                                              className={`text-nowrap relative block  parentclass font-normal  px-3  py-3 ${ind == 0 ? " " : " border-t"
-                                                }`}
-                                            >
-                                              <div onClick={() => handleClick(value)} className={`flex justify-between cursor-pointer hover:text-[#ffb703]`}>
-                                                {value.item} <span className="mt-0.5">{value.nestedSubItem && <FaAngleDown />}</span>{" "}
+                                          {value.nestedSubItem ? (
+                                            <>
+                                              <div
+                                                onClick={() => handleClick(value)}
+                                                className="flex justify-between cursor-pointer hover:text-[#ffb703] px-3 py-3"
+                                              >
+                                                {value.item} <span className="mt-0.5"><FaAngleDown /></span>
                                               </div>
-                                              <ul className={`subclass ${nestedMenu == value.isMode ? "show" : ""}  bg-white  ${value.nestedSubItem ? "mt-2" : ""}`}>
-                                                {value.nestedSubItem &&
-                                                  value.nestedSubItem.map((ele, ind) => {
-                                                    return (
-                                                      <>
-                                                        {ele.href ? (
-                                                          <a
-                                                            target="_blank"
-                                                            className={` text-sm hover:text-[#ffb703] pl-5 border-t block pt-2 ${ind == value.nestedSubItem.length - 1 ? "pb-0" : "pb-2"
-                                                              }`}
-                                                            onClick={() => window.open(ele.path, "_blank")}
-                                                          >
-                                                            {ele.item}
-                                                          </a>
-                                                        ) : (
-                                                          <Link
-                                                            key={ind}
-                                                            href={ele.path || '#'} 
-                                                            className={` text-sm hover:text-[#ffb703] pl-5 border-t block pt-2 ${ind == value.nestedSubItem.length - 1 ? "pb-0" : "pb-2"
-                                                              }`}
-                                                          >
-                                                            {ele.item}
-                                                          </Link>
-                                                        )}
-                                                      </>
-                                                    );
-                                                  })}
+                                              <ul className={`subclass ${nestedMenu == value.isMode ? "show" : ""} bg-white ${value.nestedSubItem ? "mt-2" : ""}`}>
+                                                {value.nestedSubItem.map((ele, subInd) => (
+                                                  <li key={subInd} className="block">
+                                                    {ele.href ? (
+                                                      <a
+                                                        target="_blank"
+                                                        className={`text-sm hover:text-[#ffb703] pl-5 border-t block pt-2 ${subInd == value.nestedSubItem.length - 1 ? "pb-0" : "pb-2"}`}
+                                                        onClick={() => window.open(ele.path, "_blank")}
+                                                      >
+                                                        {ele.item}
+                                                      </a>
+                                                    ) : (
+                                                      <Link
+                                                        href={ele.path || '#'}
+                                                        className={`text-sm hover:text-[#ffb703] pl-5 border-t block pt-2 ${subInd == value.nestedSubItem.length - 1 ? "pb-0" : "pb-2"}`}
+                                                      >
+                                                        {ele.item}
+                                                      </Link>
+                                                    )}
+                                                  </li>
+                                                ))}
                                               </ul>
-                                            </Link>
+                                            </>
                                           ) : (
-                                            <a
-                                              href={value.path || '#'} 
-                                              target="_blank"
-                                              rel="noopener noreferrer"
-                                              className={`text-nowrap relative block  parentclass font-normal hover:text-[#ffb703] px-3  py-3 ${ind == 0 ? " " : " border-t"}`}
-                                              onClick={(e) => {
-                                                e.preventDefault(); // Prevent default navigation
-                                                window.open(value.path, "_blank"); // Open in new tab
-                                              }}
+                                            <Link
+                                              href={value.path || '#'}
+                                              className="block hover:text-[#ffb703] px-3 py-3"
                                             >
                                               {value.item}
-                                            </a>
+                                            </Link>
                                           )}
                                         </>
-                                      );
-                                    })}
-                                  </ul>
-                                </div>
-                              )}
-                            </Link>
-                          }
-
-                        </>
+                                      ) : (
+                                        <a
+                                          href={value.path || '#'}
+                                          target="_blank"
+                                          rel="noopener noreferrer"
+                                          className="block hover:text-[#ffb703] px-3 py-3"
+                                          onClick={(e) => {
+                                            e.preventDefault();
+                                            window.open(value.path, "_blank");
+                                          }}
+                                        >
+                                          {value.item}
+                                        </a>
+                                      )}
+                                    </li>
+                                  );
+                                })}
+                              </ul>
+                            </div>
+                          )}
+                        </div>
                       );
                     })}
                   </nav>
@@ -195,84 +195,108 @@ const Header = () => {
             {bottomHeaderData[0].navitems.map((data, index) => {
               return (
                 <li key={index} className={`relative w-full  ${data.item === "Login" && "hidden"} text-sm  uppercase cursor-pointer py-2 ${data.id !== 0 && "border-t"}  `}>
-                  <Link href={data.path || '#'}  key={index} className={`  ${location.pathname === data.path ? "active" : ""} w-full block   [&.active]:text-[#ffb703] `}>
-                    <span className={`flex gap-x-0.5 xl:gap-x-1 items-center pl-2 pr-5 justify-between hover:text-[#ffb703]  `}>{data.item}</span>
-                    {data?.subItem && (
-                      <ul className={`transition-all w-full     duration-700  h-full overflow-hidden  ${subMenu == data.id ? "max-h-[1000px]" : "max-h-0"}   `}>
-                        <span className="w-full block h-0.5 mt-2 bg-[#ffb703]"></span>
-                        {data?.subItem.map((value, ind) => {
-                          return (
-                            <>
-                              {value.item !== "SC/ST Committee" ? (
-                                <Link
-                                  key={ind}
-                                  onClick={() => {
-                                    !value.nestedSubItem && setSideMenu(false);
-                                  }}
-                                  href={value.path || '#'}
-                                  className={`block  font-normal parentclass     py-2 ${ind == 0 ? " " : " border-t"}`}
-                                >
-                                  <div onClick={() => handleClick(value)} className={`flex justify-between px-5 hover:text-[#ffb703]`}>
-                                    {value.item}  <span className="mt-0.5">{value.nestedSubItem && <FaAngleDown />}</span>{" "}
-                                  </div>
-                                  <ul className={`subclass ${nestedMenu == value.isMode ? "show" : ""}   ${value.nestedSubItem ? "" : ""}`}>
-                                    {value.nestedSubItem &&
-                                      value.nestedSubItem.map((ele, ind) => {
-                                        return (
-                                          <>
-                                            {ele.href ? (
-                                              <a
+                  {data.href ? (
+                    <a
+                      target="_blank"
+                      className={` ${location.pathname === data.path ? "active" : ""} w-full block [&.active]:text-[#ffb703] `}
+                      onClick={() => {
+                        window.open(data.path, "_blank");
+                        setSideMenu(false);
+                      }}
+                    >
+                      <span className="flex gap-x-0.5 xl:gap-x-1 items-center pl-2 pr-5 justify-between hover:text-[#ffb703]">{data.item}</span>
+                    </a>
+                  ) : (
+                    <Link
+                      href={data.path || '#'}
+                      onClick={() => {
+                        if (!data.subItem) {
+                          setSideMenu(false);
+                        }
+                      }}
+                      className={` ${location.pathname === data.path ? "active" : ""} w-full block [&.active]:text-[#ffb703] `}
+                    >
+                      <span className="flex gap-x-0.5 xl:gap-x-1 items-center pl-2 pr-5 justify-between hover:text-[#ffb703]">{data.item}</span>
+                    </Link>
+                  )}
 
-                                                target="_blank"
-                                                className={` text-sm hover:text-[#ffb703] pl-5 border-t block pt-2 ${ind == value.nestedSubItem.length - 1 ? "pb-0" : "pb-2"
-                                                  }`}
-                                                onClick={() => {
-                                                  window.open(ele.path, "_blank");
-                                                  setSideMenu(false);
-                                                }}
-                                              >
-                                                {ele.item}
-                                              </a>
-                                            ) : (
-                                              <Link
-                                                key={ind}
-                                                href={ele.path || '#'} 
-                                                onClick={() => {
-                                                  setSideMenu(false);
-                                                }}
-                                                className={` text-sm hover:text-[#ffb703] pl-5 border-t block pt-2 ${ind == value.nestedSubItem.length - 1 ? "pb-0" : "pb-2"
-                                                  }`}
-                                              >
-                                                {ele.item}
-                                              </Link>
-                                            )}
-                                          </>
-
-                                        );
-                                      })}
-                                  </ul>
-                                </Link>
-                              ) : (
-                                <a
-                                  href={value.path || '#'} 
-                                  target="_blank"
-                                  rel="noopener noreferrer"
-                                  className={`text-nowrap relative block  parentclass font-normal hover:text-[#ffb703] px-5  pt-3 pb-1 ${ind == 0 ? " " : " border-t"}`}
-                                  onClick={(e) => {
-                                    e.preventDefault(); // Prevent default navigation
-                                    window.open(value.path, "_blank"); // Open in new tab
-                                    setSideMenu(false);
-                                  }}
-                                >
-                                  {value.item}
-                                </a>
-                              )}
-                            </>
-                          );
-                        })}
-                      </ul>
-                    )}
-                  </Link>
+                  {data?.subItem && (
+                    <ul className={`transition-all w-full duration-700 h-full overflow-hidden ${subMenu == data.id ? "max-h-[1000px]" : "max-h-0"}`}>
+                      <span className="w-full block h-0.5 mt-2 bg-[#ffb703]"></span>
+                      {data.subItem.map((value, ind) => {
+                        return (
+                          <li key={ind} className="block w-full">
+                            {value.item !== "SC/ST Committee" ? (
+                              <>
+                                {value.nestedSubItem ? (
+                                  <>
+                                    <div
+                                      onClick={() => handleClick(value)}
+                                      className="flex justify-between px-5 py-2 hover:text-[#ffb703]"
+                                    >
+                                      {value.item} <span className="mt-0.5"><FaAngleDown /></span>
+                                    </div>
+                                    <ul className={`subclass ${nestedMenu == value.isMode ? "show" : ""} subclass-mobile-nested`}>
+                                      {value.nestedSubItem.map((ele, subInd) => (
+                                        <li key={subInd} className="block pl-5">
+                                          {ele.href ? (
+                                            <a
+                                              target="_blank"
+                                              className={`text-sm hover:text-[#ffb703] pl-5 border-t block pt-2 ${subInd == value.nestedSubItem.length - 1 ? "pb-0" : "pb-2"}`}
+                                              onClick={() => {
+                                                window.open(ele.path, "_blank");
+                                                setSideMenu(false);
+                                              }}
+                                            >
+                                              {ele.item}
+                                            </a>
+                                          ) : (
+                                            <Link
+                                              href={ele.path || '#'}
+                                              onClick={() => {
+                                                setSideMenu(false);
+                                              }}
+                                              className={`text-sm hover:text-[#ffb703] pl-5 border-t block pt-2 ${subInd == value.nestedSubItem.length - 1 ? "pb-0" : "pb-2"}`}
+                                            >
+                                              {ele.item}
+                                            </Link>
+                                          )}
+                                        </li>
+                                      ))}
+                                    </ul>
+                                  </>
+                                ) : (
+                                  <Link
+                                    href={value.path || '#'}
+                                    onClick={() => {
+                                      setSideMenu(false);
+                                    }}
+                                    className={`block font-normal parentclass px-5 py-2 ${ind == 0 ? "" : "border-t"}`}
+                                  >
+                                    {value.item}
+                                  </Link>
+                                )}
+                              </>
+                            ) : (
+                              <a
+                                href={value.path || '#'}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className={`text-nowrap relative block parentclass font-normal hover:text-[#ffb703] px-5 pt-3 pb-1 ${ind == 0 ? "" : "border-t"}`}
+                                onClick={(e) => {
+                                  e.preventDefault();
+                                  window.open(value.path, "_blank");
+                                  setSideMenu(false);
+                                }}
+                              >
+                                {value.item}
+                              </a>
+                            )}
+                          </li>
+                        );
+                      })}
+                    </ul>
+                  )}
 
                   <span className="absolute top-2 right-2 ">
                     {data?.subItem && (

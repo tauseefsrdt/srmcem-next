@@ -81,12 +81,12 @@ export const footerData = {
     {
       id: 0,
       title: "How to apply",
-      path: "admissions/how-to-apply",
+      path: "/admissions/how-to-apply",
     },
     {
       id: 1,
       title: "Program Finder",
-      path: "admissions/course-offered",
+      path: "/admissions/course-offered",
     },
 
   ],

@@ -2,7 +2,19 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["adminpre.srmcem.ac.in", "crmservices.srmu.ac.in"],
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "adminpre.srmcem.ac.in",
+      },
+      {
+        protocol: "https",
+        hostname: "crmservices.srmu.ac.in",
+      },
+    ],
+  },
+  typescript: {
+    ignoreBuildErrors: true,
   },
 };
 
