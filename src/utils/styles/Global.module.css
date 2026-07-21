@@ -190,7 +190,6 @@
   font-size: 18px;
 }
 
-.active_breadcrumbs,
 .active_breadcrumbs a {
   color: #ffb703 !important;
   cursor: default;
