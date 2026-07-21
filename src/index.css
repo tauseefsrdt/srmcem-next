@@ -9,6 +9,13 @@ html {
   color: #212529;
 }
 
+body {
+  font-family: "Rubik", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
 h1,
 h2,
 h3,
@@ -16,6 +23,7 @@ h4,
 h5,
 h6 {
   color: #212529;
+  font-weight: bold;
 }
 
 .testmonial-slider .slick-dots {
@@ -1063,8 +1071,6 @@ input::-webkit-inner-spin-button {
     background-color: #f4f7fc;
     line-height: 1.6;
     overflow-x: hidden;
-    -webkit-font-smoothing: antialiased;
-    text-rendering: optimizeLegibility;
   }
 
   /* Fixed, layered light backdrop: airy white gradient + soft drifting blue &
