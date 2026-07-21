@@ -93,12 +93,15 @@ h6 {
     transform: translateY(-100%);
   }
 }
+
 .flip-slider.placement-drive-slider1.one .slick-dots {
   bottom: -24px !important;
 }
+
 .flip-slider.placement-drive-slider1.two .slick-dots {
   bottom: -34px !important;
 }
+
 /* ==================Marque======================= */
 .memorial {
   /* background-image: url("/memorial.jpg"); */
@@ -342,7 +345,7 @@ h6 {
   display: none !important;
 }
 
-.photo_gallery > .slick-dots li button:before {
+.photo_gallery>.slick-dots li button:before {
   font-family: "slick";
   position: absolute;
   top: 0;
@@ -358,12 +361,12 @@ h6 {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.photo_gallery > .slick-dots li.slick-active button:before {
+.photo_gallery>.slick-dots li.slick-active button:before {
   opacity: 0.9;
   background: #ffb703;
 }
 
-.photo_gallery > .slick-dots {
+.photo_gallery>.slick-dots {
   bottom: -40px !important;
 }
 
@@ -702,6 +705,7 @@ background: radial-gradient(circle, rgba(36,64,143,0.9444152661064426) 0%, rgba(
 }
 
 @media screen and (min-width: 592px) {
+
   /* ======================================== */
   .parent_grid_gallary .children img {
     width: 100%;
@@ -1006,6 +1010,7 @@ input::-webkit-inner-spin-button {
 } */
 
 @keyframes glowing {
+
   0%,
   100% {
     background-color: #ffb703;
@@ -1025,10 +1030,11 @@ input::-webkit-inner-spin-button {
   transition: height 0.3s ease !important;
 }
 
-.testimonial .slick-slide > div {
+.testimonial .slick-slide>div {
   display: flex !important;
   height: 100% !important;
 }
+
 .max-w-container {
   width: 100%;
   max-width: 1220px;
@@ -1037,6 +1043,7 @@ input::-webkit-inner-spin-button {
   padding-left: 24px;
   padding-right: 24px;
 }
+
 @layer base {
   * {
     margin: 0;
@@ -1089,6 +1096,7 @@ input::-webkit-inner-spin-button {
 
   /* Aurora keyframes live here too (CSS-driven backdrop, not a utility). */
   @keyframes aurora {
+
     0%,
     100% {
       transform: translate3d(0, 0, 0) scale(1);
@@ -1239,6 +1247,7 @@ html {
 }
 
 @media (prefers-reduced-motion: reduce) {
+
   *,
   *::before,
   *::after {

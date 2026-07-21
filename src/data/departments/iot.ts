@@ -24,7 +24,6 @@ const p11 = "/images/departMent/mechanical-engineering/new-img/image (11).png";
 const p12 = "/images/departMent/mechanical-engineering/new-img/image (12).png";
 const p13 = "/images/departMent/mechanical-engineering/new-img/image (13).png";
 
-
 const newLab1 = "/images/departMent/cybersecurity/newLab/image (34).png";
 const newLab2 = "/images/departMent/cybersecurity/newLab/image (35).png";
 const newLab3 = "/images/departMent/cybersecurity/newLab/image (36).png";
@@ -41,9 +40,6 @@ const newLab13 = "/images/departMent/cybersecurity/newLab/image (46).png";
 const newLab14 = "/images/departMent/computer-science/new/Compiler Design Lab picture.jpeg";
 const newLab15 = "/images/departMent/cybersecurity/newLab/image (48).png";
 
-
-
-
 const itFac = "/images/departMent/ITDepartment/newFac/Dr. Richa Sharma.jpg";
 const itFac1 = "/images/departMent/ITDepartment/newFac/Dr. Ashish Awasthi.jpg";
 const itFac2 = "/images/departMent/ITDepartment/newFac/Er. Akshita agarwal.jpg";
@@ -57,15 +53,8 @@ const itFac9 = "/images/departMent/ITDepartment/newFac/Er. Shilpi Khanna.jpg";
 const itFac10 = "/images/departMent/ITDepartment/newFac/Er. Vijay Shukla.png";
 const itFac11 = "/images/departMent/ITDepartment/newFac/Prof. Ajay Srivastava.jpg";
 
-
-
-
-
-
 const eegalnew1 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-06-13 113755.png";
 const eegalnew2 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-06-13 113806.png";
-
-
 
 const eegal1 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-06-13 113700.png";
 // const eegal2 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-04-24 173607.png";
@@ -81,8 +70,6 @@ const eegal10 = "/images/departMent/electrical-engineering/gallery/Screenshot 20
 const eegal12 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-06-13 113746.png";
 // const eegal13 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-04-24 174109.png";
 // const eegal14 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-04-24 174135.png";
-
-
 
 const ecgal1 = "/images/departMent/electronicComm/gallery/Screenshot 2026-04-25 142838.png";
 const ecgal2 = "/images/departMent/electronicComm/gallery/Screenshot 2026-04-25 142844.png";
@@ -105,10 +92,6 @@ const ecgal18 = "/images/departMent/electronicComm/gallery/Screenshot 2026-04-25
 const ecgal19 = "/images/departMent/electronicComm/gallery/Screenshot 2026-04-25 143209.png";
 const ecgal20 = "/images/departMent/electronicComm/gallery/Screenshot 2026-04-25 143218.png";
 
-
-
-
-
 const Ankita = "/images/departMent/electronicComm/faculty/Ankita.png";
 const Anushka = "/images/departMent/electronicComm/faculty/Anushka.png";
 const Ashish = "/images/departMent/electronicComm/faculty/Ashish.png";
@@ -121,10 +104,6 @@ const Sanjay = "/images/departMent/electronicComm/faculty/Sanjay.png";
 const Sonam = "/images/departMent/electronicComm/faculty/Sonam.png";
 const Uddaish = "/images/departMent/electronicComm/faculty/Uddaish.png";
 
-
-
-
-
 const Amit = "/images/departMent/electrical-engineering/faculty/Amit .png";
 const Bhupesh = "/images/departMent/electrical-engineering/faculty/Bhupesh .png";
 const Indu = "/images/departMent/electrical-engineering/faculty/Indu .png";
@@ -132,27 +111,13 @@ const Jayati = "/images/departMent/electrical-engineering/faculty/Jayati .png";
 const Sandhya = "/images/departMent/electrical-engineering/faculty/Sandhya .png";
 const Satyendra = "/images/departMent/electrical-engineering/faculty/Satyendra .png";
 
-
-
-
-
-
-
-
 const pacPdf = "/pdf/department/IT/pac/IT_PAC_2023-24_Odd.pdf";
 const pacPdf1 = "/pdf/department/IT/pac/IT_PAC_2024-25_Odd.pdf";
 const pacPdf2 = "/pdf/department/IT/pac/IT_PAC_2025-26_Odd.pdf";
 // const pacPdf2 = "/pdf/department/IT/pac/IT_PAC_2025-26_Odd.pdf";
 
-
-
 const pacPdf3 = "/pdf/department/IT/pac/even/IT_PAC_2023-24_Even.pdf";
 const pacPdf4 = "/pdf/department/IT/pac/even/IT_PAC_2024-25_Even.pdf";
-
-
-
-
-
 
 const app1 = "/images/departMent/computer-application/new_gal/Screenshot 2026-04-18 143104.png";
 const app2 = "/images/departMent/computer-application/new_gal/Screenshot 2026-04-18 143119.png";
@@ -167,15 +132,10 @@ const app10 = "/images/departMent/computer-application/new_gal/Screenshot 2026-0
 const app11 = "/images/departMent/computer-application/new_gal/Screenshot 2026-04-18 143340.png";
 const app12 = "/images/departMent/computer-application/new_gal/Screenshot 2026-04-18 143351.png";
 
-
-
 const prof2 = "/images/departMent/computer-application/prof/image.png";
 const prof3 = "/images/departMent/computer-application/prof/image (1).png";
 const prof4 = "/images/departMent/computer-application/prof/image (2).png";
 const prof5 = "/images/departMent/computer-application/prof/image (3).png";
-
-
-
 
 const nwpro1 = "/images/departMent/computer-science/members/newImg/image (14).png";
 const nwpro2 = "/images/departMent/computer-science/members/newImg/image (15).png";
@@ -197,13 +157,6 @@ const nwpro17 = "/images/departMent/computer-science/members/newImg/image (30).p
 const nwpro18 = "/images/departMent/computer-science/members/newImg/image (31).png";
 const nwpro199 = "/images/departMent/computer-science/members/newImg/Screenshot 2026-06-19 104543.png";
 
-
-
-
-
-
-
-
 const ganew1 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 2026-03-20 at 23.16.26.jpeg";
 const ganew2 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 2026-03-20 at 23.16.42.jpeg";
 const ganew3 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 2026-03-20 at 23.17.02.jpeg";
@@ -223,10 +176,6 @@ const ganew16 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 
 const ganew17 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 2026-03-20 at 23.22.29.jpeg";
 const ganew18 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 2026-03-20 at 23.22.47.jpeg";
 
-
-
-
-
 const eclabb1 = "/images/departMent/electronicComm/image (22).png";
 const eclabb2 = "/images/departMent/electronicComm/image (23).png";
 const eclabb3 = "/images/departMent/electronicComm/image (24).png";
@@ -239,14 +188,6 @@ const eclabb9 = "/images/departMent/electronicComm/image (30).png";
 const eclabb10 = "/images/departMent/electronicComm/image (31).png";
 const eclabb11 = "/images/departMent/electronicComm/image (32).png";
 const eclabb12 = "/images/departMent/electronicComm/image (33).png";
-
-
-
-
-
-
-
-
 
 const ceLab1 = "/images/departMent/civil_engineering/CELabImgs/1.jpg";
 const ceLab2 = "/images/departMent/civil_engineering/CELabImgs/2.jpg";
@@ -380,7 +321,6 @@ const Shilpi = "/images/departMent/management/faculty/Shilpi.png";
 const Shivangi = "/images/departMent/management/faculty/Shivangi.png";
 const Shujauddin = "/images/departMent/management/faculty/Shujauddin.png";
 
-
 // const managementimg11 = "/images/departMent/management/Pragati_malik_HOD.jpg";
 // const managementimg = "/images/departMent/management/boddy.jpg";
 // const managementimg1 = "/images/departMent/management/laju.jpg";
@@ -457,17 +397,13 @@ const mbaBos11 = "/pdf/department/management/PAC_Minutes of Meeting_04-03-2025.p
 // const eepacO2 = "/pdf/department/electrical-engineering/EE_15thPAC_2023-24(ODD).pdf";
 // const eepacO3 = "/pdf/department/electrical-engineering/EE_19th PAC_2025-26_Odd Semester.pdf";
 
-
 const eepacO4 = "/pdf/department/electrical-engineering/pac/EE_PAC_2023-24_Even Semester.pdf";
 const eepacO5 = "/pdf/department/electrical-engineering/pac/EE_PAC_2024-25_Even semester.pdf";
 const eepacO6 = "/pdf/department/electrical-engineering/pac/EE_PAC_2025-26_Even Semester.pdf";
 
-
 const eepacO7 = "/pdf/department/electrical-engineering/pac/odd/EE_PAC_2023-24_Odd Semester.pdf";
 const eepacO8 = "/pdf/department/electrical-engineering/pac/odd/EE_PAC_2024-25_Odd semester.pdf";
 const eepacO9 = "/pdf/department/electrical-engineering/pac/odd/EE_PAC_2025-26_Odd semester.pdf";
-
-
 
 const lab1 = "/pdf/department/electrical-engineering/lab/image (13).png";
 const lab2 = "/pdf/department/electrical-engineering/lab/image (14).png";
@@ -476,9 +412,6 @@ const lab4 = "/pdf/department/electrical-engineering/lab/image (16).png";
 const lab5 = "/pdf/department/electrical-engineering/lab/image (17).png";
 const lab6 = "/pdf/department/electrical-engineering/lab/image (18).png";
 const lab7 = "/pdf/department/electrical-engineering/lab/image (19).png";
-
-
-
 
 const itlabnew1 = "/images/departMent/ITDepartment/lab/DSC_4567.jpg";
 const itlabnew2 = "/images/departMent/ITDepartment/lab/DSC_4568.jpg";
@@ -491,7 +424,6 @@ const itlabnew8 = "/images/departMent/ITDepartment/lab/DSC_5514.jpg";
 const itlabnew9 = "/images/departMent/ITDepartment/lab/DSC_5516.jpg";
 const itlabnew10 = "/images/departMent/ITDepartment/lab/DSC_5520.jpg";
 const itlabnew11 = "/images/departMent/ITDepartment/lab/DSC_5522.jpg";
-
 
 // const departmentLibrarryEE = "/pdf/departMent/electrical-engineering/B.tech_EE.pdf";
 // const ecimg31 = "/images/departMent/electronics-engineering/Prof. (Dr.) Indu Prabha Singh_new.jpg";
@@ -520,8 +452,6 @@ const ecimg21 = "/images/departMent/electronics-engineering/21.Sangeet Kumar.png
 // const ecimg23 = "/images/departMent/electronics-engineering/23.Er. Abhishek Verma.png";
 // const ecimg24 = "/images/departMent/electronics-engineering/24.Dr. Akhilesh Kumar Gupta.png";
 
-
-
 const Sadhana = "/images/departMent/ai-ml/new/Sadhana.png";
 const Anuj = "/images/departMent/ai-ml/new/Anuj.png";
 // const Shubham = "/images/departMent/ai-ml/new/Shubham.png";
@@ -534,15 +464,11 @@ const Ayodhya = "/images/departMent/ai-ml/new/Ayodhya.png";
 const Himanshi = "/images/departMent/ai-ml/new/Himanshi.png";
 const Aayush = "/images/departMent/ai-ml/new/Aayush.png";
 
-
-
 const aigal1 = "/images/departMent/ai-ml/gallery/Screenshot 2026-06-10 140806.png";
 const aigal2 = "/images/departMent/ai-ml/gallery/Screenshot 2026-06-10 140816.png";
 const aigal3 = "/images/departMent/ai-ml/gallery/Screenshot 2026-06-10 140823.png";
 const aigal4 = "/images/departMent/ai-ml/gallery/Screenshot 2026-06-10 140831.png";
 const aigal5 = "/images/departMent/ai-ml/gallery/Screenshot 2026-06-10 140840.png";
-
-
 
 const aimllab1 = "/images/departMent/ai-ml/lab/Screenshot 2026-06-10 141528.png";
 const aimllab2 = "/images/departMent/ai-ml/lab/Screenshot 2026-06-10 141535.png";
@@ -561,8 +487,6 @@ const aimllab13 = "/images/departMent/ai-ml/lab/new/Screenshot 2026-06-10 143556
 const aimllab14 = "/images/departMent/ai-ml/lab/new/Screenshot 2026-06-10 143551.png";
 const aimllab15 = "/images/departMent/ai-ml/lab/new/image.png";
 const webt = "/images/departMent/ai-ml/lab/new/webt.png";
-
-
 
 // electronics pac
 // const ecpac26 = "/pdf/department/electronics-engineering/EC_PAC_2023-24 Even Semester.pdf";
@@ -795,11 +719,9 @@ const cse_magzine_2024 = "/pdf/department/cse/magazine/CSE___23-24.pdf";
 const cse_magzine_2023 = "/pdf/department/cse/magazine/CSE_22-23.pdf";
 const cse_magzine_2025 = "/pdf/department/cse/magazine/CSE - 24-25.pdf";
 
-
 const csePAC2526 = "/pdf/department/cse/CSE_PAC_2025-26_Odd Semester.pdf";
 const csePAC2526Even = "/pdf/department/cse/CSE_PAC_2025-26 Even Semester.pdf";
 const csePAC21Even = "/pdf/department/cse/CSE_BOS_2021-22 Even Semester.pdf";
-
 
 // const pacOdd = "/pdf/department/electronics-engineering/pac/EC_PAC_2025-26 Odd Semester.pdf";
 
@@ -884,13 +806,7 @@ const managementnewGallery13 = "/images/departMent/management/gallery/new/Screen
 // const mechanicalGallery16 = "/images/departMent/mechanical-engineering/gallery/mechanicalGallery16.jpg";
 // const mechanicalGallery17 = "/images/departMent/mechanical-engineering/gallery/mechanicalGallery17.jpg";
 
-
-
 const newpdf = "/pdf/department/mechanical-engineering/ME_PAC_2025-26 Even Semester.pdf";
-
-
-
-
 
 const labig1 = "/images/departMent/computer-application/lab/image (4).png";
 const labig2 = "/images/departMent/computer-application/lab/image (5).png";
@@ -901,10 +817,6 @@ const labig6 = "/images/departMent/computer-application/lab/image (9).png";
 const labig7 = "/images/departMent/computer-application/lab/image (10).png";
 const labig8 = "/images/departMent/computer-application/lab/image (11).png";
 const labig9 = "/images/departMent/computer-application/lab/image (12).png";
-
-
-
-
 
 const gal1 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 2026-04-13 144203.png";
 const gal2 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 2026-04-13 144219.png";
@@ -938,8 +850,6 @@ const gal29 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 
 const gal30 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 2026-04-13 144843.png";
 const gal31 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 2026-04-13 144903.png";
 const gal32 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 2026-04-13 144914.png";
-
-
 
 // const eec1 = "/images/departMent/electronics-engineering/lab/image1.png";
 // const eec2 = "/images/departMent/electronics-engineering/lab/image2.png";
@@ -1050,9 +960,6 @@ const csfac12 = "/images/departMent/computer-science/members/12.jpg";
 // const csga54 = "/images/departMent/computer-science/gallery/word_media_image17cs.jpeg";
 // const csga55 = "/images/departMent/computer-science/gallery/word_media_image18cs.jpeg";
 
-
-
-
 // const newcse1 = "/images/departMent/computer-science/new/9.png";
 // const newcse2 = "/images/departMent/computer-science/new/22.png";
 // const newcse3 = "/images/departMent/computer-science/new/21.png";
@@ -1063,7 +970,6 @@ const csfac12 = "/images/departMent/computer-science/members/12.jpg";
 // const newcse8 = "/images/departMent/computer-science/new/14.png";
 // const newcse9 = "/images/departMent/computer-science/new/13.png";
 // const newcse10 = "/images/departMent/computer-science/new/12.png";
-
 
 const newcse1 = "/images/departMent/computer-science/new/gallery/1.png";
 const newcse10 = "/images/departMent/computer-science/new/gallery/10.png";
@@ -1087,8 +993,6 @@ const newcse6 = "/images/departMent/computer-science/new/gallery/6.png";
 const newcse7 = "/images/departMent/computer-science/new/gallery/7.png";
 const newcse8 = "/images/departMent/computer-science/new/gallery/8.png";
 const newcse9 = "/images/departMent/computer-science/new/gallery/9.png";
-
-
 
 // const cega1 = "/images/departMent/civil_engineering/gallery/1.jpeg";
 // const cega2 = "/images/departMent/civil_engineering/gallery/2.jpeg";
@@ -1223,8 +1127,6 @@ const cemag01 = "/pdf/department/civil-engineering/CE_Magazine Jan'26.pdf";
 // const ecga17 = "/images/departMent/electronics-engineering/gallery/word_media_image17.jpeg";
 // const ecga18 = "/images/departMent/electronics-engineering/gallery/word_media_image18.png";
 
-
-
 // const mcaga1 = "/images/departMent/computer-application/gallery/mcaga1.jpg";
 // const mcaga2 = "/images/departMent/computer-application/gallery/mcaga2.jpg";
 // const mcaga3 = "/images/departMent/computer-application/gallery/mcaga3.jpg";
@@ -1239,7 +1141,6 @@ const cemag01 = "/pdf/department/civil-engineering/CE_Magazine Jan'26.pdf";
 // const mcaga12 = "/images/departMent/computer-application/gallery/mcaga12.jpg";
 // const mcaga13 = "/images/departMent/computer-application/gallery/mcaga13.jpg";
 // const mcaga14 = "/images/departMent/computer-application/gallery/mcaga14.jpg";
-
 
 // const cynew1 = "/images/departMent/cybersecurity/new/gallery/1.png";
 const cynew2 = "/images/departMent/cybersecurity/new/gallery/2.png";
@@ -1263,16 +1164,14 @@ const cynew6 = "/images/departMent/cybersecurity/new/gallery/6.png";
 // const gait13 = "/images/departMent/ITDepartment/gallery/13.jpg";
 // const gait14 = "/images/departMent/ITDepartment/gallery/14.jpg";
 
-
-
-
-const gait15 = "/images/departMent/ITDepartment/gallery/new/A proud moment when the students of IT Department and from Grobots club won the events conducted in IIT BHU (TECHNEX 2k26) securing 2nd and 4th position in Maze Solving ..png";
+const gait15 =
+  "/images/departMent/ITDepartment/gallery/new/A proud moment when the students of IT Department and from Grobots club won the events conducted in IIT BHU (TECHNEX 2k26) securing 2nd and 4th position in Maze Solving ..png";
 const gait16 = "/images/departMent/ITDepartment/gallery/new/DATE - 11TH MAY , 2025 National Technology Day celebrated by IT Department..png";
-const gait17 = "/images/departMent/ITDepartment/gallery/new/DATE - 16TH FEB,2026 Glimpse from Spardha 2026 , a celebration of teamwork , discipline and sportsmanship graced by our revered founder and Executive Director Er.Pankaj Aggrawal sir and our respec.png";
+const gait17 =
+  "/images/departMent/ITDepartment/gallery/new/DATE - 16TH FEB,2026 Glimpse from Spardha 2026 , a celebration of teamwork , discipline and sportsmanship graced by our revered founder and Executive Director Er.Pankaj Aggrawal sir and our respec.png";
 const gait18 = "/images/departMent/ITDepartment/gallery/new/DATE - 25.png";
 const gait19 = "/images/departMent/ITDepartment/gallery/new/Gantavya.png";
 const gait20 = "/images/departMent/ITDepartment/gallery/new/WhatsApp Image 2.jpeg";
-
 
 const eepac1 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2022-23 Even Semester.pdf";
 const eepac2 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2023-24 Even Semester.pdf";
@@ -1283,9 +1182,6 @@ const eepac6 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2023-24 O
 const eepac7 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2024-25 Odd Semester.pdf";
 const eepac8 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2025-26 Odd Semester.pdf";
 // const eepac1 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2022-23 Even Semester.pdf";
-
-
-
 
 // const csm1 = "/images/departMent/cybersecurity/faculty/csm1.jpg";
 // const csm2 = "/images/departMent/cybersecurity/faculty/csm2.jpg";
@@ -1354,37 +1250,28 @@ const hug13 = "/images/departMent/humenities/gallery/hug13.jpg";
 const hug14 = "/images/departMent/humenities/gallery/hug14.jpg";
 const hug15 = "/images/departMent/humenities/gallery/hug15.jpg";
 
-
 const itpac1 = "/pdf/department/IT/it-odd/IT_PAC_Agenda Points.pdf";
 const itpac2 = "/pdf/department/IT/it-odd/IT_PAC_ATR.pdf";
 const itpac3 = "/pdf/department/IT/it-odd/IT_PAC_Constitution.pdf";
 const itpac4 = "/pdf/department/IT/it-odd/IT_PAC_MoM with Attendance Record.pdf";
-
 
 const itpac12 = "/pdf/department/IT/it-23-24/IT_PAC_Agenda Points.pdf";
 const itpac22 = "/pdf/department/IT/it-23-24/IT_PAC_ATR.pdf";
 const itpac32 = "/pdf/department/IT/it-23-24/IT_PAC_Constitution.pdf";
 const itpac42 = "/pdf/department/IT/it-23-24/IT_PAC_MoM with Attendance Record.pdf";
 
-
 const itpac123 = "/pdf/department/IT/it-24-25/IT_PAC_Agenda Points.pdf";
 const itpac223 = "/pdf/department/IT/it-24-25/IT_PAC_ATR.pdf";
 const itpac323 = "/pdf/department/IT/it-24-25/IT_PAC_Constitution.pdf";
 const itpac423 = "/pdf/department/IT/it-24-25/IT_PAC_MoM with Attendance Record.pdf";
 
-
-
 const aimlpac = "/pdf/department/ai-ml/pac/AIML & DS_PAC_2025 2026_EVEN.pdf";
-
 
 const aimlmag1 = "/pdf/department/ai-ml/magazines/Magazine_SPECTRUM_2022-23.pdf";
 const aimlmag2 = "/pdf/department/ai-ml/magazines/Magazine_SPECTRUM_2023_24.pdf";
 const aimlmag3 = "/pdf/department/ai-ml/magazines/Magazine_spectrum 24-25 (1).pdf";
 
-
 // const pacEC = "/pdf/department/electronics-engineering/pac/EC_PAC_2025-26 Even Semester.pdf";
-
-
 
 const iotfa1 = "/images/departMent/iot/new/gallery/IO.png";
 const iotfa2 = "/images/departMent/iot/new/gallery/IO2.png";
@@ -1394,28 +1281,21 @@ const iotfa5 = "/images/departMent/iot/new/gallery/IO5.png";
 
 const pragya = "/pdf/department/computer-application/PRAGYA-2026.pdf";
 
-
 const itpac1234 = "/pdf/department/IT/it-24-25_odd/IT_PAC_Agenda Points.pdf";
 const itpac2234 = "/pdf/department/IT/it-24-25_odd/IT_PAC_ATR.pdf";
 const itpac3234 = "/pdf/department/IT/it-24-25_odd/IT_PAC_Constitution.pdf";
 const itpac4234 = "/pdf/department/IT/it-24-25_odd/IT_PAC_MoM with Attendance Record.pdf";
 
-
 const mechpdf = "/pdf/department/mechanical-engineering/ME_MAGZINE_2024-25.pdf";
-
-
 
 const itmag = "/pdf/department/IT/magazines_new/CHRONICLE_IT Department Magazine_2022-23.pdf";
 const itmag1 = "/pdf/department/IT/magazines_new/CHRONICLE_IT Department Magazine_2023-24.pdf";
-
 
 const ec1 = "/pdf/department/electronics-engineering/EC_Magazine_2022-23.pdf";
 const ec2 = "/pdf/department/electronics-engineering/EC_Magazine_ 2023-24.pdf";
 const ec3 = "/pdf/department/electronics-engineering/EC_Magazine_2024-25.pdf";
 
-
 const eemag = "/pdf/department/electrical-engineering/EE magzine_Electra Vista session 2024-25  (1).pdf";
-
 
 export const DepartmentOfIOTTabData: customTabDataTypes[] = [
   {
@@ -1523,7 +1403,6 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
               listBold: "PO11: Life-Long Learning:",
               list: "- Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change. (WK8)",
             },
-
           ],
         },
         content: [
@@ -1549,8 +1428,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
               {
                 id: 3,
                 bold: "PEO 4: ",
-                value:
-                  " To be a team player who has respect and consideration for all team members.",
+                value: " To be a team player who has respect and consideration for all team members.",
               },
             ],
           },
@@ -1617,17 +1495,17 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
               aboutData:
                 "Dr. Pankaj Kumar is currently serving as Professor and Head of the Department of Computer Science and Engineering at Shri Ramswaroop Group of Professional Colleges, Lucknow. He is also holding the responsibility of Convener, Research and Development Cell of the college. With over 24 years of extensive experience in teaching and research, he has made notable contributions to academics, research, and institutional development. He holds MCA, M.Tech., and Ph.D. degrees, with primary research interests in High-Performance Computing and Computational Linguistics. Dr. Kumar has an impressive research portfolio, having published more than 75 research papers in reputed national and international journals, as well as in conference proceedings published by IEEE, Springer, and ACM. His research achievements further include two published patents and one granted copyright and patent. Dr. Kumar is a Senior Member of IEEE and a Professional Member of ACM, and also holds Life Memberships in several esteemed professional bodies, including CSI, IETE, ISTE, IAENG, ISOC, and IACSIT. He has served in important leadership capacities as a Management Committee Member of CSI and IETE, Lucknow (2016–2018) and as a Member of the Nomination Committee of the CSI Lucknow Chapter (2021–2022). At present, he continues to serve as a Management Committee Member of CSI and IETE, Lucknow. Beyond his academic and administrative roles, Dr. Kumar has actively contributed to the global research community as a reviewer for leading international journals, including Springer and IEEE, and as a member of the editorial boards of various international journals. He has also played significant roles in several international conferences as a Reviewer, Technical Committee Member, and Co-Chair. Under his guidance, five Ph.D. scholars are currently pursuing their research, while five Ph.D. theses and twelve M.Tech. theses have already been successfully awarded, demonstrating his strong commitment to research mentorship, innovation, and academic excellence.",
             },
-            {
-              id: 25,
-              imgSrc: nwpro2,
-              education: "M.TECH, MCA",
-              name: "Er. Ratan Rajan Srivastava",
-              designation: "Assistant Professor & Deputy HOD",
-              email: "E-mail: ratanrajan@srmcem.ac.in",
-              orcid: "ORCID :0009-0000-4565-9667",
-              aboutData:
-                "Er. Ratan Rajan Srivastava is a distinguished academician currently serving as an Assistant Professor at SRMCEM, with over 16 years of experience in academia. He has established himself as a respected figure in the field of Computer Science through his dedicated teaching and research contributions. His areas of expertise include Machine Learning, Deep Learning, Big Data, Analysis of Algorithms, Computer Networks, and Cyber Security. He has made significant contributions to these domains through his research and academic work. His research work has been published in various reputed national and international journals, along with contributions to patents, reflecting the depth of his knowledge and the impact of his research.",
-            },
+            // {
+            //   id: 25,
+            //   imgSrc: nwpro2,
+            //   education: "M.TECH, MCA",
+            //   name: "Er. Ratan Rajan Srivastava",
+            //   designation: "Assistant Professor & Deputy HOD",
+            //   email: "E-mail: ratanrajan@srmcem.ac.in",
+            //   orcid: "ORCID :0009-0000-4565-9667",
+            //   aboutData:
+            //     "Er. Ratan Rajan Srivastava is a distinguished academician currently serving as an Assistant Professor at SRMCEM, with over 16 years of experience in academia. He has established himself as a respected figure in the field of Computer Science through his dedicated teaching and research contributions. His areas of expertise include Machine Learning, Deep Learning, Big Data, Analysis of Algorithms, Computer Networks, and Cyber Security. He has made significant contributions to these domains through his research and academic work. His research work has been published in various reputed national and international journals, along with contributions to patents, reflecting the depth of his knowledge and the impact of his research.",
+            // },
             {
               id: 35,
               imgSrc: csfac10,
@@ -1918,7 +1796,6 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
             //     "Er. Himanshi Singh has a graduate and postgraduate degree in Computer Science and Engineering. She has a Bachelor of Computer Application from Punjab Technical University, a Master of Computer Application, and a Master of Technology in Computer Science and Engineering from Dr. RML Avadh University. Er. Himanshi Singh also actively pursues research in High-performance computing, blockchain technology, and networking. Their work has been presented at numerous national and international conferences and published in IEEE Explore. As an Assistant Professor, Himanshi Singh is passionate about bridging theory and practice, providing students with the tools and knowledge needed for academic and professional success. She has published a chapter in the book Recent Trends in Science and Technology",
             // },
 
-
             // {
             //   id: 26,
             //   imgSrc: csfac1,
@@ -1926,7 +1803,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
             //   education: "M.Tech",
             //   email: "E-mail : sunny.shies56@gmail.com",
             //   aboutData: `
-            //    Er. Sunny Kumar  is presently working as an Assistant Professor at SRMCEM.His area of interests in Compiler Desigen, Data Structure, Web designing, Networking & Operating systems. 
+            //    Er. Sunny Kumar  is presently working as an Assistant Professor at SRMCEM.His area of interests in Compiler Desigen, Data Structure, Web designing, Networking & Operating systems.
             //   `,
             // },
             // {
@@ -1945,7 +1822,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
             //   education: "M. TECH.",
             //   email: "E-mail : agarwalshanoli@gmail.com",
             //   aboutData: `
-            //    Ms. Shanoli Agarwal is presently working as an Assistant Professor at SRMCEM. She holds an M.Tech in Computer Science. Her areas of interest include Cloud Computing, Big Data Analytics, Internet of Things (IoT), Computer Networks, and Software Development. 
+            //    Ms. Shanoli Agarwal is presently working as an Assistant Professor at SRMCEM. She holds an M.Tech in Computer Science. Her areas of interest include Cloud Computing, Big Data Analytics, Internet of Things (IoT), Computer Networks, and Software Development.
             //   `,
             // },
             // {
@@ -1955,7 +1832,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
             //   education: "M.Tech",
             //   email: "E-mail : sapnapal181@gmail.com",
             //   aboutData: `
-            //     Ms. Sapna Pal is presently working as an Assistant Professor at SRMCEM. She holds an M.Tech in Computer Science. Her areas of interest include Data Science, Natural Language Processing, Computer Vision, Human-Computer Interaction, and Distributed Computing. 
+            //     Ms. Sapna Pal is presently working as an Assistant Professor at SRMCEM. She holds an M.Tech in Computer Science. Her areas of interest include Data Science, Natural Language Processing, Computer Vision, Human-Computer Interaction, and Distributed Computing.
             //   `,
             // },
             // {
@@ -1965,7 +1842,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
             //   education: "M.Tech",
             //   email: "E-mail : nidhitiw.7@gmail.com",
             //   aboutData: `
-            //    Ms. Nidhi Tiwari is presently working as an Assistant Professor at SRMCEM. She holds an M.Tech in Computer Science. Her areas of interest include Algorithms, Cryptography, Data Mining, Cloud Security, and Computer Architecture. 
+            //    Ms. Nidhi Tiwari is presently working as an Assistant Professor at SRMCEM. She holds an M.Tech in Computer Science. Her areas of interest include Algorithms, Cryptography, Data Mining, Cloud Security, and Computer Architecture.
             //   `,
             // },
             // {
@@ -1985,7 +1862,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
             //   education: "M.Tech",
             //   email: "E-mail : neer1990@gmail.com",
             //   aboutData: `
-            //     Mr. Neeraj Kumar is presently working as an Assistant Professor at SRMCEM. He holds an M.Tech in Computer Science. His areas of interest include Distributed Computing, Network Security, Cloud Computing, Software Architecture, and Data Analytics. 
+            //     Mr. Neeraj Kumar is presently working as an Assistant Professor at SRMCEM. He holds an M.Tech in Computer Science. His areas of interest include Distributed Computing, Network Security, Cloud Computing, Software Architecture, and Data Analytics.
             //   `,
             // },
             //           {
@@ -1995,7 +1872,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
             //             education: "M.Tech",
             //             email: "E-mail : gunjan.ishracs@gmail.com",
             //             aboutData: `
-            //             Mr. Gunjan Mishra is presently working as an Assistant Professor at SRMCEM. He holds an M.Tech in Computer Science. His areas of interest include Software Development, Web Technologies, Data Structures, Operating Systems, and Computer Networks. 
+            //             Mr. Gunjan Mishra is presently working as an Assistant Professor at SRMCEM. He holds an M.Tech in Computer Science. His areas of interest include Software Development, Web Technologies, Data Structures, Operating Systems, and Computer Networks.
             //             `,
             //           },
             //           {
@@ -2005,10 +1882,9 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
             //             education: "M.Tech",
             //             email: "E-mail : neetabhusal@gmail.com",
             //             aboutData: `
-            //              Ms. Neeta Bhusal Sharma is presently working as an Assistant Professor at SRMCEM. She holds an M.Tech in Computer Science. Her areas of interest include Cybersecurity, Cloud Computing, Data Analytics, Computer Programming, and Information Security. 
+            //              Ms. Neeta Bhusal Sharma is presently working as an Assistant Professor at SRMCEM. She holds an M.Tech in Computer Science. Her areas of interest include Cybersecurity, Cloud Computing, Data Analytics, Computer Programming, and Information Security.
             //             `,
             //           },
-
 
             //           {
             //             id: 36,
@@ -2021,7 +1897,6 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
             //   Dr. Rajan Prasad is an Associate Professor at SRMCEM with 19 years of teaching and research experience. He holds a B.Tech in Computer Science and Engineering, an M.Tech in Software Engineering, and a Ph.D. in Computer Science and Engineering. His research interests include Soft Computing, Machine Learning, and Ontology Engineering. He has published his work in several international journals and conference proceedings and holds two published patents. He is lifetime membership of International Association for Responsible Artificial Intelligence (IARAI) and IAENG. He serves as a reviewer for various international journals in MCET and has contributed to various IEEE/Springer conferences as a reviewer as well as Technical Committee member. He is guiding one Ph.D. scholar as a Co-Supervisor.
             // `,
             //           },
-
 
             {
               id: 38,
@@ -2036,12 +1911,10 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
   `,
             },
 
-
-
             {
               id: 40,
               imgSrc: nwpro6,
-              designation: "Er. BHIM NATH TIWARI",
+              designation: "Er. BHIM NATH TIWARI & Deputy HOD",
               education: "M.Tech",
               email: "E-mail : ",
               aboutData: `
@@ -2427,7 +2300,8 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                   },
                   {
                     id: 2,
-                    value: "II. Design and implement a database schema for company database, banking database, library information system, payroll processing system, and student information system",
+                    value:
+                      "II. Design and implement a database schema for company database, banking database, library information system, payroll processing system, and student information system",
                   },
                   {
                     id: 3,
@@ -2463,8 +2337,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                   },
                   {
                     id: 2,
-                    value:
-                      "II. Apply CSS in designing and developing responsive websites for compatibility with various devices.",
+                    value: "II. Apply CSS in designing and developing responsive websites for compatibility with various devices.",
                   },
                   {
                     id: 3,
@@ -2472,7 +2345,8 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                   },
                   {
                     id: 4,
-                    value: "IV. Design and deploy different components using Java Bean, Node.js, and database tables using MongoDB, and produce various results based on given queries.",
+                    value:
+                      "IV. Design and deploy different components using Java Bean, Node.js, and database tables using MongoDB, and produce various results based on given queries.",
                   },
                   {
                     id: 5,
@@ -2508,8 +2382,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                   },
                   {
                     id: 4,
-                    value:
-                      "IV. Understand and analyze algorithms to solve problems using dynamic programming and backtracking.",
+                    value: "IV. Understand and analyze algorithms to solve problems using dynamic programming and backtracking.",
                   },
                   {
                     id: 5,
@@ -2537,7 +2410,8 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                   },
                   {
                     id: 2,
-                    value: "II. Identify different actors and use cases from a given problem statement and draw a use case diagram to associate use cases with different types of relationships.",
+                    value:
+                      "II. Identify different actors and use cases from a given problem statement and draw a use case diagram to associate use cases with different types of relationships.",
                   },
                   {
                     id: 3,
@@ -2545,7 +2419,8 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                   },
                   {
                     id: 4,
-                    value: "IV. Graphically represent various UML diagrams and associations among them, identify the logical sequence of activities in a system, and represent them pictorially.",
+                    value:
+                      "IV. Graphically represent various UML diagrams and associations among them, identify the logical sequence of activities in a system, and represent them pictorially.",
                   },
                   {
                     id: 5,
@@ -2573,8 +2448,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                   },
                   {
                     id: 2,
-                    value:
-                      "II. Implement various framing methods of the Data Link Layer.",
+                    value: "II. Implement various framing methods of the Data Link Layer.",
                   },
                   {
                     id: 3,
@@ -2582,8 +2456,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                   },
                   {
                     id: 4,
-                    value:
-                      "IV. Implement network routing and addressing techniques.",
+                    value: "IV. Implement network routing and addressing techniques.",
                   },
                   {
                     id: 5,
@@ -2611,8 +2484,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                   },
                   {
                     id: 2,
-                    value:
-                      "II. Implement IoT-based applications using sensors, actuators, and microcontrollers.",
+                    value: "II. Implement IoT-based applications using sensors, actuators, and microcontrollers.",
                   },
                   {
                     id: 3,
@@ -2620,8 +2492,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                   },
                   {
                     id: 4,
-                    value:
-                      "IV. Develop and test IoT applications using hardware and software tools.",
+                    value: "IV. Develop and test IoT applications using hardware and software tools.",
                   },
                   {
                     id: 5,
@@ -2758,9 +2629,8 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
               ],
             },
           },
-        ]
+        ],
       },
-
 
       {
         id: 5,
@@ -2793,7 +2663,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "2nd position in Volleyball at SRMCEM",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Nov",
-                    organisedBy: "AKTU Zonal"
+                    organisedBy: "AKTU Zonal",
                   },
                   {
                     id: 2,
@@ -2802,7 +2672,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "Participated in AKTU Sport at Zonal Level",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Oct",
-                    organisedBy: "AKTU Zonal"
+                    organisedBy: "AKTU Zonal",
                   },
                   {
                     id: 3,
@@ -2811,7 +2681,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "Certificate Course Completion on JAVA",
                     typeOfCertification: "Course",
                     dateOfConduction: "Oct",
-                    organisedBy: "IBM"
+                    organisedBy: "IBM",
                   },
                   {
                     id: 4,
@@ -2820,7 +2690,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "One Day Workshop on AWS",
                     typeOfCertification: "Workshop",
                     dateOfConduction: "",
-                    organisedBy: "IBM"
+                    organisedBy: "IBM",
                   },
                   {
                     id: 5,
@@ -2829,7 +2699,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "Won 1st Position in Line Follower at BotFiesta 2025",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Nov",
-                    organisedBy: "MUIT, Lucknow"
+                    organisedBy: "MUIT, Lucknow",
                   },
                   {
                     id: 6,
@@ -2838,7 +2708,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "2nd Position in Inter-Institutional Idea Challenges Hackathon",
                     typeOfCertification: "Hackathon",
                     dateOfConduction: "Nov",
-                    organisedBy: "BIET, Lucknow"
+                    organisedBy: "BIET, Lucknow",
                   },
                   {
                     id: 7,
@@ -2847,7 +2717,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "1st Position in Armageddon-15Kg at Cognizance 2025",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Sept",
-                    organisedBy: "IIT Roorkee"
+                    organisedBy: "IIT Roorkee",
                   },
                   {
                     id: 8,
@@ -2856,7 +2726,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "2nd Position in Armageddon-30Kg at Cognizance 2025",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Aug",
-                    organisedBy: "IIT Roorkee"
+                    organisedBy: "IIT Roorkee",
                   },
                   {
                     id: 9,
@@ -2865,7 +2735,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "1st Runner Up in 30 Kg Bots Combat at Technooxian World Cup 9.0",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Aug",
-                    organisedBy: "Noida"
+                    organisedBy: "Noida",
                   },
                   {
                     id: 10,
@@ -2874,7 +2744,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "Winner at GenAI Hackathon Lucknow 2025",
                     typeOfCertification: "Hackathon",
                     dateOfConduction: "Nov",
-                    organisedBy: "MUIT, Lucknow"
+                    organisedBy: "MUIT, Lucknow",
                   },
                   {
                     id: 11,
@@ -2883,7 +2753,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "1st Place (Gold Medal) in ROBOWAR-8Kg at INFOTSAV 2025",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Nov",
-                    organisedBy: "IIITM Gwalior"
+                    organisedBy: "IIITM Gwalior",
                   },
                   {
                     id: 12,
@@ -2892,7 +2762,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "2nd Runner Up in Drone Competition at INFOTSAV 2025",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Sept",
-                    organisedBy: "IIITM Gwalior"
+                    organisedBy: "IIITM Gwalior",
                   },
                   {
                     id: 13,
@@ -2901,7 +2771,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "Won 1st Position in Drone Racing at BotFiesta 2025",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Nov",
-                    organisedBy: "MUIT, Lucknow"
+                    organisedBy: "MUIT, Lucknow",
                   },
                   {
                     id: 14,
@@ -2910,7 +2780,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "A Review of Digital Technologies in Elderly Care: Focus on Web-Based Systems (I3CSET-2025)",
                     typeOfCertification: "Research Paper Publication",
                     dateOfConduction: "Nov",
-                    organisedBy: "I3CSET-2025 (Scopus)"
+                    organisedBy: "I3CSET-2025 (Scopus)",
                   },
                   {
                     id: 15,
@@ -2919,7 +2789,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "A Review of AI-Driven Interview Preparation Systems Using Generative AI",
                     typeOfCertification: "Research Paper Publication",
                     dateOfConduction: "Nov",
-                    organisedBy: "I3CSET-2025 (Scopus)"
+                    organisedBy: "I3CSET-2025 (Scopus)",
                   },
                   {
                     id: 16,
@@ -2928,7 +2798,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "Predicting the Market: A Critical Review of Machine and Deep Learning Approaches for Housing Price Prediction",
                     typeOfCertification: "Research Paper Publication",
                     dateOfConduction: "Nov",
-                    organisedBy: "I3CSET-2025 (Scopus)"
+                    organisedBy: "I3CSET-2025 (Scopus)",
                   },
                   {
                     id: 17,
@@ -2937,7 +2807,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "From Static to Dynamic: Revolutionizing Restaurant Pricing Strategies",
                     typeOfCertification: "Research Paper Publication/Presentation",
                     dateOfConduction: "Nov",
-                    organisedBy: "I3CSET-2025 (Scopus)"
+                    organisedBy: "I3CSET-2025 (Scopus)",
                   },
                   {
                     id: 18,
@@ -2946,7 +2816,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "1st Position in 100m Boys",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Oct",
-                    organisedBy: "AKTU Zonal Level"
+                    organisedBy: "AKTU Zonal Level",
                   },
                   {
                     id: 19,
@@ -2955,7 +2825,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "3rd Position in 4x100m Boys at AKTU State Level",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Nov",
-                    organisedBy: "AKTU State Level"
+                    organisedBy: "AKTU State Level",
                   },
                   {
                     id: 20,
@@ -2964,7 +2834,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "3rd Position in 100m Boys at AKTU State Level",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Nov",
-                    organisedBy: "AKTU State Level"
+                    organisedBy: "AKTU State Level",
                   },
                   {
                     id: 21,
@@ -2973,7 +2843,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "Gold in 100m at AARAMBH 2K25",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Nov",
-                    organisedBy: "AIMT, Lucknow"
+                    organisedBy: "AIMT, Lucknow",
                   },
                   {
                     id: 22,
@@ -2982,7 +2852,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "Runner-Up in Kho Kho at AARAMBH 2K25",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Nov",
-                    organisedBy: "AIMT, Lucknow"
+                    organisedBy: "AIMT, Lucknow",
                   },
                   {
                     id: 23,
@@ -2991,7 +2861,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "Winner in Cricket at AARAMBH 2K25",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Nov",
-                    organisedBy: "AIMT, Lucknow"
+                    organisedBy: "AIMT, Lucknow",
                   },
                   {
                     id: 24,
@@ -3000,7 +2870,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "1st Position in Long Jump Boys at AKTU Zonal Level",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Oct",
-                    organisedBy: "AKTU Zonal Level"
+                    organisedBy: "AKTU Zonal Level",
                   },
                   {
                     id: 25,
@@ -3009,7 +2879,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "Winner in Long Jump at AARAMBH 2K25",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Nov",
-                    organisedBy: "AIMT, Lucknow"
+                    organisedBy: "AIMT, Lucknow",
                   },
                   {
                     id: 26,
@@ -3018,7 +2888,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "3rd Position in Discus Throw at AKTU State Level",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Nov",
-                    organisedBy: "AKTU State Level"
+                    organisedBy: "AKTU State Level",
                   },
                   {
                     id: 27,
@@ -3027,7 +2897,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "3rd Position in 4x100m at AKTU State Level",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Nov",
-                    organisedBy: "AKTU State Level"
+                    organisedBy: "AKTU State Level",
                   },
                   {
                     id: 28,
@@ -3036,8 +2906,8 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     titleOfCertification: "1st Position in Long Jump at AKTU Zonal Level",
                     typeOfCertification: "Sport",
                     dateOfConduction: "Oct",
-                    organisedBy: "AKTU Zonal Level"
-                  }
+                    organisedBy: "AKTU Zonal Level",
+                  },
                 ],
               },
             },
@@ -3059,61 +2929,501 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                   },
                 ],
                 rowData: [
-                  { id: 1, sNo: 1, name: "Mr. Harish Shukla", "titleOfCertification": "Secure and Explainable Generative AI for Medical IoT Data Analytics", "typeOfCertification": "ATAL FDP", dateOfConduction: "August 2025", organisedBy: "NIT Puducherry" },
-                  { id: 2, sNo: 2, name: "Ms. Nida Hasib", "titleOfCertification": "Technological Convergence in industry 5.0 and the vision for industry 6.0", "typeOfCertification": "FDP", dateOfConduction: "June 2025", organisedBy: "Amity University" },
-                  { id: 3, sNo: 3, name: "Mr. Divyanshu Mishra", "titleOfCertification": "The Future of AI & ML: Balancing Innovation, Ethics, and Industry Needs", "typeOfCertification": "ATAL FDP", dateOfConduction: "September 2025", organisedBy: "RCE" },
-                  { id: 4, sNo: 4, name: "Mr. Divyanshu Mishra", "titleOfCertification": "Next Generation Technology - Agentic AI", "typeOfCertification": "Two-Day Workshop", dateOfConduction: "August 2025", organisedBy: "SRMU" },
-                  { id: 5, sNo: 5, name: "Ms. Priyanshi Dwivedi", "titleOfCertification": "UHV", "typeOfCertification": "AICTE UHV FDP", dateOfConduction: "August 2025", organisedBy: "SRMCEM, Lucknow" },
-                  { id: 6, sNo: 6, name: "Mr. Anurag Chauhan", "titleOfCertification": "Next Generation Technology - Agentic AI", "typeOfCertification": "Two-Day Workshop", dateOfConduction: "August 2025", organisedBy: "SRMU" },
-                  { id: 7, sNo: 7, name: "Ms. Priyanshi Dwivedi", "titleOfCertification": "Next Generation Technology - Agentic AI", "typeOfCertification": "Two-Day Workshop", dateOfConduction: "August 2025", organisedBy: "SRMU" },
-                  { id: 8, sNo: 8, name: "Mr. Divyanshu Mishra", "titleOfCertification": "Internet Society Membership (2341268)", "typeOfCertification": "Membership", dateOfConduction: "August 2025", organisedBy: "Internet Society" },
-                  { id: 9, sNo: 9, name: "Mr. Divyanshu Mishra", "titleOfCertification": "IAENG Membership (AI, CS, Software Engineering)", "typeOfCertification": "Membership", dateOfConduction: "August 2025", organisedBy: "International Association of Engineers" },
-                  { id: 10, sNo: 10, name: "Mr. Divyanshu Mishra", "titleOfCertification": "ISAC Membership (RM2025080801)", "typeOfCertification": "Membership", dateOfConduction: "August 2025", organisedBy: "International Society for Applied Computing" },
-                  { id: 11, sNo: 11, name: "Dr. Sadhana Rana", "titleOfCertification": "Big Data Analytics Server Machine", "typeOfCertification": "Design Patent", dateOfConduction: "July 2025", organisedBy: "The Patent Office, GOI" },
-                  { id: 12, sNo: 12, name: "Mr. Anurag Chauhan", "titleOfCertification": "The Future of AI & ML: Balancing Innovation, Ethics, and Industry Needs", "typeOfCertification": "ATAL FDP", dateOfConduction: "September 2025", organisedBy: "RCE" },
-                  { id: 13, sNo: 13, name: "Mr. Mahesh Bahadur Singh", "titleOfCertification": "Introduction to Programming in C", "typeOfCertification": "FDP", dateOfConduction: "September 2025", organisedBy: "NPTEL" },
-                  { id: 14, sNo: 14, name: "Miss Sarika Singh", "titleOfCertification": "Secure and Explainable Generative AI for Medical IoT Data Analytics", "typeOfCertification": "ATAL FDP", dateOfConduction: "August 2025", organisedBy: "NIT Puducherry" },
-                  { id: 15, sNo: 15, name: "Dr. Sadhana Rana", "titleOfCertification": "Secure and Explainable Generative AI for Medical IoT Data Analytics", "typeOfCertification": "ATAL FDP", dateOfConduction: "August 2025", organisedBy: "NIT Puducherry" },
-                  { id: 16, sNo: 16, name: "Mr. Ratan Rajan Srivastava", "titleOfCertification": "Demystifying Transformers: The Brains Behind Generative AI", "typeOfCertification": "ATAL FDP", dateOfConduction: "August 2025", organisedBy: "VIT" },
-                  { id: 17, sNo: 17, name: "Mr. Ratan Rajan Srivastava", "titleOfCertification": "Next-Gen Intelligence: AI Applications in Industry, Academia, and Beyond", "typeOfCertification": "ATAL FDP", dateOfConduction: "September 2025", organisedBy: "St. Joseph's Institute of Technology" },
-                  { id: 18, sNo: 18, name: "Mr. Ratan Rajan Srivastava, Dr. Sandeep Kr. Dubey", "titleOfCertification": "From Static to Dynamic: Revolutionizing Restaurant Pricing Strategies", "typeOfCertification": "Research Paper", dateOfConduction: "November 2025", organisedBy: "I3CSET-2025, Galgotias College of Engineering (Sponsored by Taylor & Francis, UK)" },
-                  { id: 19, sNo: 19, name: "Mr. Ratan Rajan Srivastava, Ms. Himanshi Singh", "titleOfCertification": "A Review of AI-Driven Interview Preparation System using Generative AI", "typeOfCertification": "Research Paper", dateOfConduction: "November 2025", organisedBy: "I3CSET-2025, Galgotias College of Engineering (Sponsored by Taylor & Francis, UK)" },
-                  { id: 20, sNo: 20, name: "Mr. Ratan Rajan Srivastava, Mr. Asit Kr. Gahalaut", "titleOfCertification": "A Review of Digital Technologies in Elderly Care: Focus on Web-Based Applications for Health Management and Social Support", "typeOfCertification": "Research Paper", dateOfConduction: "November 2025", organisedBy: "I3CSET-2025, Galgotias College of Engineering (Sponsored by Taylor & Francis, UK)" },
-                  { id: 21, sNo: 21, name: "Mr. Ratan Rajan Srivastava, Mr. Asit Kr. Gahalaut", "titleOfCertification": "Predicting the Market: A Critical Review of Machine and Deep Learning Approaches for House Price Prediction", "typeOfCertification": "Research Paper", dateOfConduction: "November 2025", organisedBy: "I3CSET-2025, Galgotias College of Engineering (Sponsored by Taylor & Francis, UK)" },
-                  { id: 22, sNo: 22, name: "Er. Aayush Pratap Singh", "titleOfCertification": "Alumni Talk", "typeOfCertification": "Alumni Talk", dateOfConduction: "October 2025", organisedBy: "SEMCEM" },
-                  { id: 23, sNo: 23, name: "Er. Mamta Prajapati", "titleOfCertification": "Cyber Security", "typeOfCertification": "APEX FDP", dateOfConduction: "October 2025", organisedBy: "TCS" },
-                  { id: 24, sNo: 24, name: "Mr. Ratan Rajan Srivastava", "titleOfCertification": "Enhancement of Scientific Teaching and Research in STEM", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "Amity University" },
-                  { id: 25, sNo: 25, name: "Ms. Mamta Prajapati", "titleOfCertification": "Enhancement of Scientific Teaching and Research in STEM", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "Amity University" },
-                  { id: 26, sNo: 26, name: "Ms. Monika Singh", "titleOfCertification": "Enhancement of Scientific Teaching and Research in STEM", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "Amity University" },
-                  { id: 27, sNo: 27, name: "Er. Mamta Prajapati", "titleOfCertification": "Advanced Computing & Sustainable Technologies", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "BBD ITM, Lucknow" },
-                  { id: 28, sNo: 28, name: "Mr. Ratan Rajan Srivastava", "titleOfCertification": "Advanced Computing & Sustainable Technologies", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "BBD ITM, Lucknow" },
-                  { id: 29, sNo: 29, name: "Mr. Anurag Chauhan", "titleOfCertification": "Enhancement of Scientific Teaching and Research in STEM", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "Amity University" },
-                  { id: 30, sNo: 30, name: "Mr. Anurag Chauhan", "titleOfCertification": "IAENG Membership (545689)", "typeOfCertification": "Membership", dateOfConduction: "December 2025", organisedBy: "IAENG International Association of Engineers" },
-                  { id: 31, sNo: 31, name: "Mr. Harish Shukla", "titleOfCertification": "Enhancement of Scientific Teaching and Research in STEM", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "Amity University" },
-                  { id: 32, sNo: 32, name: "Mr. Harish Shukla", "titleOfCertification": "Cyber Security", "typeOfCertification": "APEX FDP", dateOfConduction: "October 2025", organisedBy: "TCS" },
-                  { id: 33, sNo: 33, name: "Dr. Rajan Prasad", "titleOfCertification": "Enhancement of Scientific Teaching and Research in STEM", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "Amity University" },
-                  { id: 34, sNo: 34, name: "Mr. Neerav Nishant", "titleOfCertification": "Enhancement of Scientific Teaching and Research in STEM", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "Amity University" },
-                  { id: 35, sNo: 35, name: "Prof. Aayush Pratap Singh", "titleOfCertification": "Enhancement of Scientific Teaching and Research in STEM", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "Amity University" },
-                  { id: 36, sNo: 36, name: "Mr. Neerav Nishant", "titleOfCertification": "Empowering Education: Pedagogical Advancements in Operations Management for Industry 4.0", "typeOfCertification": "ATAL FDP", dateOfConduction: "September 2025", organisedBy: "IITM" },
-                  { id: 37, sNo: 37, name: "Mr. Neerav Nishant", "titleOfCertification": "Demystifying Transformers: The Brains Behind Generative AI", "typeOfCertification": "ATAL FDP", dateOfConduction: "August 2025", organisedBy: "VIT" },
-                  { id: 38, sNo: 38, name: "Ms. Mamta Prajapati", "titleOfCertification": "IoTDE", "typeOfCertification": "APEX FDP", dateOfConduction: "November 2025", organisedBy: "TCS" },
-                  { id: 39, sNo: 39, name: "Mr. Neerav Nishant", "titleOfCertification": "Advanced Computing & Sustainable Technologies", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "BBD ITM, Lucknow" },
-                  { id: 40, sNo: 40, name: "Mr. Divyanshu Mishra", "titleOfCertification": "Enhancement of Scientific Teaching and Research in STEM", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "Amity University" },
-                  { id: 41, sNo: 41, name: "Mr. Divyanshu Mishra", "titleOfCertification": "Empowering Youth through Value Driven Education", "typeOfCertification": "UHV Conference", dateOfConduction: "December 2025", organisedBy: "ICHVHE 2025" },
-                  { id: 42, sNo: 42, name: "Ms. Neha Singh", "titleOfCertification": "Cognitive Science and Artificial Intelligence: Bridging Human Intelligence with Machine Learning", "typeOfCertification": "ATAL FDP", dateOfConduction: "December 2025", organisedBy: "BBD ITM, Lucknow" },
-                  { id: 43, sNo: 43, name: "Ms. Akansha Pandey", "titleOfCertification": "Cognitive Science and Artificial Intelligence: Bridging Human Intelligence with Machine Learning", "typeOfCertification": "ATAL FDP", dateOfConduction: "December 2025", organisedBy: "BBD ITM, Lucknow" },
-                  { id: 44, sNo: 44, name: "Mr. Anurag Chauhan", "titleOfCertification": "Empowering Youth through Value Driven Education", "typeOfCertification": "UHV Conference", dateOfConduction: "December 2025", organisedBy: "ICHVHE 2025" },
-                  { id: 45, sNo: 45, name: "Prof. Bhim Nath Tiwari", "titleOfCertification": "Enhancement of Scientific Teaching and Research in STEM", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "Amity University" },
-                  { id: 46, sNo: 46, name: "Mr. Mahesh Bahadur Singh", "titleOfCertification": "Advanced Computing & Sustainable Technologies", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "BBD ITM, Lucknow" },
-                  { id: 47, sNo: 47, name: "Prof. Bhim Nath Tiwari", "titleOfCertification": "Advanced Computing & Sustainable Technologies", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "BBD ITM, Lucknow" },
-                  { id: 48, sNo: 48, name: "Ms. Monika Singh", "titleOfCertification": "Advanced Computing & Sustainable Technologies", "typeOfCertification": "FDP", dateOfConduction: "December 2025", organisedBy: "BBD ITM, Lucknow" },
-                  { id: 49, sNo: 49, name: "Mr. Ratan Rajan Srivastava, Dr. Anuj Singh", "titleOfCertification": "AI-Driven Curated Basket Delivery Platforms: A Thematic Review on Personalized Nutrition, Consumer Behavior, and Habit Formation", "typeOfCertification": "Research Paper", dateOfConduction: "January 2025", organisedBy: "ISTEHM by UoP, IITR & AIMT" },
-                  { id: 50, sNo: 50, name: "Mr. Ratan Rajan Srivastava, Dr. Sandeep Kumar Dubey", "titleOfCertification": "Digitization of AYUSH Herbal Knowledge: A Comprehensive Analysis of Online Eco-Herbal Resources & Advances in Technology", "typeOfCertification": "Research Paper", dateOfConduction: "January 2025", organisedBy: "ISTEHM by UoP, IITR & AIMT" },
-                  { id: 51, sNo: 51, name: "Mr. Ratan Rajan Srivastava, Shubham", "titleOfCertification": "From Ingredients to Intelligence: A Thematic Review of NLP and CV in Smart Recipe Generation for Food Sustainability", "typeOfCertification": "Research Paper", dateOfConduction: "January 2025", organisedBy: "ISTEHM by UoP, IITR & AIMT" },
-                  { id: 53, sNo: 53, name: "Mr. Saurabh Bahadur", "titleOfCertification": "Artificial Intelligence and Its Applications", "typeOfCertification": "ATAL FDP", dateOfConduction: "January 2025", organisedBy: "B Jain Institute of Technology" },
-                  { id: 54, sNo: 54, name: "Miss Vaidehi Verma", "titleOfCertification": "Emerging Trends in Artificial Intelligence and Its Real-World Applications", "typeOfCertification": "ATAL FDP", dateOfConduction: "January 2025", organisedBy: "UPSIFS, Lucknow" },
-                  { id: 55, sNo: 55, name: "Ms. Mamta Prajapati", "titleOfCertification": "New Age Cybersecurity, Data Protection & Cybercrimes", "typeOfCertification": "International FDP", dateOfConduction: "January 2025", organisedBy: "The Patent Office, Government of India" },
-                  { id: 56, sNo: 56, name: "Prof. Bhim Nath Tiwari", "titleOfCertification": "IOT Based Both Analog and Digital Meter Laboratory Caliper", "typeOfCertification": "Design Patent Grant", dateOfConduction: "January 2025", organisedBy: "The Patent Office, Government of India" }
+                  {
+                    id: 1,
+                    sNo: 1,
+                    name: "Mr. Harish Shukla",
+                    titleOfCertification: "Secure and Explainable Generative AI for Medical IoT Data Analytics",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "NIT Puducherry",
+                  },
+                  {
+                    id: 2,
+                    sNo: 2,
+                    name: "Ms. Nida Hasib",
+                    titleOfCertification: "Technological Convergence in industry 5.0 and the vision for industry 6.0",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "June 2025",
+                    organisedBy: "Amity University",
+                  },
+                  {
+                    id: 3,
+                    sNo: 3,
+                    name: "Mr. Divyanshu Mishra",
+                    titleOfCertification: "The Future of AI & ML: Balancing Innovation, Ethics, and Industry Needs",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "September 2025",
+                    organisedBy: "RCE",
+                  },
+                  {
+                    id: 4,
+                    sNo: 4,
+                    name: "Mr. Divyanshu Mishra",
+                    titleOfCertification: "Next Generation Technology - Agentic AI",
+                    typeOfCertification: "Two-Day Workshop",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "SRMU",
+                  },
+                  {
+                    id: 5,
+                    sNo: 5,
+                    name: "Ms. Priyanshi Dwivedi",
+                    titleOfCertification: "UHV",
+                    typeOfCertification: "AICTE UHV FDP",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "SRMCEM, Lucknow",
+                  },
+                  {
+                    id: 6,
+                    sNo: 6,
+                    name: "Mr. Anurag Chauhan",
+                    titleOfCertification: "Next Generation Technology - Agentic AI",
+                    typeOfCertification: "Two-Day Workshop",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "SRMU",
+                  },
+                  {
+                    id: 7,
+                    sNo: 7,
+                    name: "Ms. Priyanshi Dwivedi",
+                    titleOfCertification: "Next Generation Technology - Agentic AI",
+                    typeOfCertification: "Two-Day Workshop",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "SRMU",
+                  },
+                  {
+                    id: 8,
+                    sNo: 8,
+                    name: "Mr. Divyanshu Mishra",
+                    titleOfCertification: "Internet Society Membership (2341268)",
+                    typeOfCertification: "Membership",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "Internet Society",
+                  },
+                  {
+                    id: 9,
+                    sNo: 9,
+                    name: "Mr. Divyanshu Mishra",
+                    titleOfCertification: "IAENG Membership (AI, CS, Software Engineering)",
+                    typeOfCertification: "Membership",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "International Association of Engineers",
+                  },
+                  {
+                    id: 10,
+                    sNo: 10,
+                    name: "Mr. Divyanshu Mishra",
+                    titleOfCertification: "ISAC Membership (RM2025080801)",
+                    typeOfCertification: "Membership",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "International Society for Applied Computing",
+                  },
+                  {
+                    id: 11,
+                    sNo: 11,
+                    name: "Dr. Sadhana Rana",
+                    titleOfCertification: "Big Data Analytics Server Machine",
+                    typeOfCertification: "Design Patent",
+                    dateOfConduction: "July 2025",
+                    organisedBy: "The Patent Office, GOI",
+                  },
+                  {
+                    id: 12,
+                    sNo: 12,
+                    name: "Mr. Anurag Chauhan",
+                    titleOfCertification: "The Future of AI & ML: Balancing Innovation, Ethics, and Industry Needs",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "September 2025",
+                    organisedBy: "RCE",
+                  },
+                  {
+                    id: 13,
+                    sNo: 13,
+                    name: "Mr. Mahesh Bahadur Singh",
+                    titleOfCertification: "Introduction to Programming in C",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "September 2025",
+                    organisedBy: "NPTEL",
+                  },
+                  {
+                    id: 14,
+                    sNo: 14,
+                    name: "Miss Sarika Singh",
+                    titleOfCertification: "Secure and Explainable Generative AI for Medical IoT Data Analytics",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "NIT Puducherry",
+                  },
+                  {
+                    id: 15,
+                    sNo: 15,
+                    name: "Dr. Sadhana Rana",
+                    titleOfCertification: "Secure and Explainable Generative AI for Medical IoT Data Analytics",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "NIT Puducherry",
+                  },
+                  {
+                    id: 16,
+                    sNo: 16,
+                    name: "Mr. Ratan Rajan Srivastava",
+                    titleOfCertification: "Demystifying Transformers: The Brains Behind Generative AI",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "VIT",
+                  },
+                  {
+                    id: 17,
+                    sNo: 17,
+                    name: "Mr. Ratan Rajan Srivastava",
+                    titleOfCertification: "Next-Gen Intelligence: AI Applications in Industry, Academia, and Beyond",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "September 2025",
+                    organisedBy: "St. Joseph's Institute of Technology",
+                  },
+                  {
+                    id: 18,
+                    sNo: 18,
+                    name: "Mr. Ratan Rajan Srivastava, Dr. Sandeep Kr. Dubey",
+                    titleOfCertification: "From Static to Dynamic: Revolutionizing Restaurant Pricing Strategies",
+                    typeOfCertification: "Research Paper",
+                    dateOfConduction: "November 2025",
+                    organisedBy: "I3CSET-2025, Galgotias College of Engineering (Sponsored by Taylor & Francis, UK)",
+                  },
+                  {
+                    id: 19,
+                    sNo: 19,
+                    name: "Mr. Ratan Rajan Srivastava, Ms. Himanshi Singh",
+                    titleOfCertification: "A Review of AI-Driven Interview Preparation System using Generative AI",
+                    typeOfCertification: "Research Paper",
+                    dateOfConduction: "November 2025",
+                    organisedBy: "I3CSET-2025, Galgotias College of Engineering (Sponsored by Taylor & Francis, UK)",
+                  },
+                  {
+                    id: 20,
+                    sNo: 20,
+                    name: "Mr. Ratan Rajan Srivastava, Mr. Asit Kr. Gahalaut",
+                    titleOfCertification: "A Review of Digital Technologies in Elderly Care: Focus on Web-Based Applications for Health Management and Social Support",
+                    typeOfCertification: "Research Paper",
+                    dateOfConduction: "November 2025",
+                    organisedBy: "I3CSET-2025, Galgotias College of Engineering (Sponsored by Taylor & Francis, UK)",
+                  },
+                  {
+                    id: 21,
+                    sNo: 21,
+                    name: "Mr. Ratan Rajan Srivastava, Mr. Asit Kr. Gahalaut",
+                    titleOfCertification: "Predicting the Market: A Critical Review of Machine and Deep Learning Approaches for House Price Prediction",
+                    typeOfCertification: "Research Paper",
+                    dateOfConduction: "November 2025",
+                    organisedBy: "I3CSET-2025, Galgotias College of Engineering (Sponsored by Taylor & Francis, UK)",
+                  },
+                  {
+                    id: 22,
+                    sNo: 22,
+                    name: "Er. Aayush Pratap Singh",
+                    titleOfCertification: "Alumni Talk",
+                    typeOfCertification: "Alumni Talk",
+                    dateOfConduction: "October 2025",
+                    organisedBy: "SEMCEM",
+                  },
+                  {
+                    id: 23,
+                    sNo: 23,
+                    name: "Er. Mamta Prajapati",
+                    titleOfCertification: "Cyber Security",
+                    typeOfCertification: "APEX FDP",
+                    dateOfConduction: "October 2025",
+                    organisedBy: "TCS",
+                  },
+                  {
+                    id: 24,
+                    sNo: 24,
+                    name: "Mr. Ratan Rajan Srivastava",
+                    titleOfCertification: "Enhancement of Scientific Teaching and Research in STEM",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "Amity University",
+                  },
+                  {
+                    id: 25,
+                    sNo: 25,
+                    name: "Ms. Mamta Prajapati",
+                    titleOfCertification: "Enhancement of Scientific Teaching and Research in STEM",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "Amity University",
+                  },
+                  {
+                    id: 26,
+                    sNo: 26,
+                    name: "Ms. Monika Singh",
+                    titleOfCertification: "Enhancement of Scientific Teaching and Research in STEM",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "Amity University",
+                  },
+                  {
+                    id: 27,
+                    sNo: 27,
+                    name: "Er. Mamta Prajapati",
+                    titleOfCertification: "Advanced Computing & Sustainable Technologies",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "BBD ITM, Lucknow",
+                  },
+                  {
+                    id: 28,
+                    sNo: 28,
+                    name: "Mr. Ratan Rajan Srivastava",
+                    titleOfCertification: "Advanced Computing & Sustainable Technologies",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "BBD ITM, Lucknow",
+                  },
+                  {
+                    id: 29,
+                    sNo: 29,
+                    name: "Mr. Anurag Chauhan",
+                    titleOfCertification: "Enhancement of Scientific Teaching and Research in STEM",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "Amity University",
+                  },
+                  {
+                    id: 30,
+                    sNo: 30,
+                    name: "Mr. Anurag Chauhan",
+                    titleOfCertification: "IAENG Membership (545689)",
+                    typeOfCertification: "Membership",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "IAENG International Association of Engineers",
+                  },
+                  {
+                    id: 31,
+                    sNo: 31,
+                    name: "Mr. Harish Shukla",
+                    titleOfCertification: "Enhancement of Scientific Teaching and Research in STEM",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "Amity University",
+                  },
+                  {
+                    id: 32,
+                    sNo: 32,
+                    name: "Mr. Harish Shukla",
+                    titleOfCertification: "Cyber Security",
+                    typeOfCertification: "APEX FDP",
+                    dateOfConduction: "October 2025",
+                    organisedBy: "TCS",
+                  },
+                  {
+                    id: 33,
+                    sNo: 33,
+                    name: "Dr. Rajan Prasad",
+                    titleOfCertification: "Enhancement of Scientific Teaching and Research in STEM",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "Amity University",
+                  },
+                  {
+                    id: 34,
+                    sNo: 34,
+                    name: "Mr. Neerav Nishant",
+                    titleOfCertification: "Enhancement of Scientific Teaching and Research in STEM",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "Amity University",
+                  },
+                  {
+                    id: 35,
+                    sNo: 35,
+                    name: "Prof. Aayush Pratap Singh",
+                    titleOfCertification: "Enhancement of Scientific Teaching and Research in STEM",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "Amity University",
+                  },
+                  {
+                    id: 36,
+                    sNo: 36,
+                    name: "Mr. Neerav Nishant",
+                    titleOfCertification: "Empowering Education: Pedagogical Advancements in Operations Management for Industry 4.0",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "September 2025",
+                    organisedBy: "IITM",
+                  },
+                  {
+                    id: 37,
+                    sNo: 37,
+                    name: "Mr. Neerav Nishant",
+                    titleOfCertification: "Demystifying Transformers: The Brains Behind Generative AI",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "August 2025",
+                    organisedBy: "VIT",
+                  },
+                  {
+                    id: 38,
+                    sNo: 38,
+                    name: "Ms. Mamta Prajapati",
+                    titleOfCertification: "IoTDE",
+                    typeOfCertification: "APEX FDP",
+                    dateOfConduction: "November 2025",
+                    organisedBy: "TCS",
+                  },
+                  {
+                    id: 39,
+                    sNo: 39,
+                    name: "Mr. Neerav Nishant",
+                    titleOfCertification: "Advanced Computing & Sustainable Technologies",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "BBD ITM, Lucknow",
+                  },
+                  {
+                    id: 40,
+                    sNo: 40,
+                    name: "Mr. Divyanshu Mishra",
+                    titleOfCertification: "Enhancement of Scientific Teaching and Research in STEM",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "Amity University",
+                  },
+                  {
+                    id: 41,
+                    sNo: 41,
+                    name: "Mr. Divyanshu Mishra",
+                    titleOfCertification: "Empowering Youth through Value Driven Education",
+                    typeOfCertification: "UHV Conference",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "ICHVHE 2025",
+                  },
+                  {
+                    id: 42,
+                    sNo: 42,
+                    name: "Ms. Neha Singh",
+                    titleOfCertification: "Cognitive Science and Artificial Intelligence: Bridging Human Intelligence with Machine Learning",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "BBD ITM, Lucknow",
+                  },
+                  {
+                    id: 43,
+                    sNo: 43,
+                    name: "Ms. Akansha Pandey",
+                    titleOfCertification: "Cognitive Science and Artificial Intelligence: Bridging Human Intelligence with Machine Learning",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "BBD ITM, Lucknow",
+                  },
+                  {
+                    id: 44,
+                    sNo: 44,
+                    name: "Mr. Anurag Chauhan",
+                    titleOfCertification: "Empowering Youth through Value Driven Education",
+                    typeOfCertification: "UHV Conference",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "ICHVHE 2025",
+                  },
+                  {
+                    id: 45,
+                    sNo: 45,
+                    name: "Prof. Bhim Nath Tiwari",
+                    titleOfCertification: "Enhancement of Scientific Teaching and Research in STEM",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "Amity University",
+                  },
+                  {
+                    id: 46,
+                    sNo: 46,
+                    name: "Mr. Mahesh Bahadur Singh",
+                    titleOfCertification: "Advanced Computing & Sustainable Technologies",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "BBD ITM, Lucknow",
+                  },
+                  {
+                    id: 47,
+                    sNo: 47,
+                    name: "Prof. Bhim Nath Tiwari",
+                    titleOfCertification: "Advanced Computing & Sustainable Technologies",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "BBD ITM, Lucknow",
+                  },
+                  {
+                    id: 48,
+                    sNo: 48,
+                    name: "Ms. Monika Singh",
+                    titleOfCertification: "Advanced Computing & Sustainable Technologies",
+                    typeOfCertification: "FDP",
+                    dateOfConduction: "December 2025",
+                    organisedBy: "BBD ITM, Lucknow",
+                  },
+                  {
+                    id: 49,
+                    sNo: 49,
+                    name: "Mr. Ratan Rajan Srivastava, Dr. Anuj Singh",
+                    titleOfCertification: "AI-Driven Curated Basket Delivery Platforms: A Thematic Review on Personalized Nutrition, Consumer Behavior, and Habit Formation",
+                    typeOfCertification: "Research Paper",
+                    dateOfConduction: "January 2025",
+                    organisedBy: "ISTEHM by UoP, IITR & AIMT",
+                  },
+                  {
+                    id: 50,
+                    sNo: 50,
+                    name: "Mr. Ratan Rajan Srivastava, Dr. Sandeep Kumar Dubey",
+                    titleOfCertification: "Digitization of AYUSH Herbal Knowledge: A Comprehensive Analysis of Online Eco-Herbal Resources & Advances in Technology",
+                    typeOfCertification: "Research Paper",
+                    dateOfConduction: "January 2025",
+                    organisedBy: "ISTEHM by UoP, IITR & AIMT",
+                  },
+                  {
+                    id: 51,
+                    sNo: 51,
+                    name: "Mr. Ratan Rajan Srivastava, Shubham",
+                    titleOfCertification: "From Ingredients to Intelligence: A Thematic Review of NLP and CV in Smart Recipe Generation for Food Sustainability",
+                    typeOfCertification: "Research Paper",
+                    dateOfConduction: "January 2025",
+                    organisedBy: "ISTEHM by UoP, IITR & AIMT",
+                  },
+                  {
+                    id: 53,
+                    sNo: 53,
+                    name: "Mr. Saurabh Bahadur",
+                    titleOfCertification: "Artificial Intelligence and Its Applications",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "January 2025",
+                    organisedBy: "B Jain Institute of Technology",
+                  },
+                  {
+                    id: 54,
+                    sNo: 54,
+                    name: "Miss Vaidehi Verma",
+                    titleOfCertification: "Emerging Trends in Artificial Intelligence and Its Real-World Applications",
+                    typeOfCertification: "ATAL FDP",
+                    dateOfConduction: "January 2025",
+                    organisedBy: "UPSIFS, Lucknow",
+                  },
+                  {
+                    id: 55,
+                    sNo: 55,
+                    name: "Ms. Mamta Prajapati",
+                    titleOfCertification: "New Age Cybersecurity, Data Protection & Cybercrimes",
+                    typeOfCertification: "International FDP",
+                    dateOfConduction: "January 2025",
+                    organisedBy: "The Patent Office, Government of India",
+                  },
+                  {
+                    id: 56,
+                    sNo: 56,
+                    name: "Prof. Bhim Nath Tiwari",
+                    titleOfCertification: "IOT Based Both Analog and Digital Meter Laboratory Caliper",
+                    typeOfCertification: "Design Patent Grant",
+                    dateOfConduction: "January 2025",
+                    organisedBy: "The Patent Office, Government of India",
+                  },
                 ],
               },
             },
@@ -3140,7 +3450,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     name: "Er. Shubham Kumar/SRMCEM",
                     titleOfCertification: "ALGO ARENNA",
                     typeOfCertification: "Contest",
-                    dateOfConduction: "Nov"
+                    dateOfConduction: "Nov",
                   },
                   {
                     id: 1,
@@ -3148,7 +3458,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     name: "MD. Zuhaib Khan, Mohit Rai",
                     titleOfCertification: "Gen Al",
                     typeOfCertification: "Hackthon",
-                    dateOfConduction: "Nov"
+                    dateOfConduction: "Nov",
                   },
                   {
                     id: 2,
@@ -3156,7 +3466,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     name: "Mr. Ashwani Mishra, Mr. Mohit Rai/Business Analyst in",
                     titleOfCertification: "Industry connect",
                     typeOfCertification: "workshop",
-                    dateOfConduction: "Nov"
+                    dateOfConduction: "Nov",
                   },
                   {
                     id: 3,
@@ -3164,7 +3474,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     name: "Mr. Somendra Nath Tiwari/Technical Programmer in Al-",
                     titleOfCertification: "Cyber Threats and Al",
                     typeOfCertification: "workshop",
-                    dateOfConduction: "Oct"
+                    dateOfConduction: "Oct",
                   },
                   {
                     id: 4,
@@ -3172,7 +3482,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     name: "Er. Abhishek Kumar Prajapati/Freecharge payment",
                     titleOfCertification: "Campus to corporate: Mastering the transition",
                     typeOfCertification: "Seminar",
-                    dateOfConduction: "Oct"
+                    dateOfConduction: "Oct",
                   },
                   {
                     id: 5,
@@ -3180,7 +3490,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     name: "Mr. Satish Anand/CEO Joshtalk",
                     titleOfCertification: "Profile bulding for high value placements and higher education",
                     typeOfCertification: "workshop",
-                    dateOfConduction: "Sept"
+                    dateOfConduction: "Sept",
                   },
                   {
                     id: 6,
@@ -3188,7 +3498,7 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     name: "Er. Gaurav Verma/ SDE-IPH Technologies, Lko",
                     titleOfCertification: "Mobile App Development with Flutter and Java",
                     typeOfCertification: "workshop",
-                    dateOfConduction: "Sept"
+                    dateOfConduction: "Sept",
                   },
                   {
                     id: 7,
@@ -3196,19 +3506,13 @@ export const DepartmentOfIOTTabData: customTabDataTypes[] = [
                     name: "Mr. Rishi Kashyap/ Robotics club Infosys springboard",
                     titleOfCertification: "infosys springboard robotics interaction",
                     typeOfCertification: "workshop",
-                    dateOfConduction: "November"
-                  }
+                    dateOfConduction: "November",
+                  },
                 ],
               },
             },
-
-
-
           ],
         },
-
-
-
       },
       {
         id: 7,
