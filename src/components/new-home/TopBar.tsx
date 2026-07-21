@@ -17,10 +17,10 @@ const TopBar = () => {
             <Icon name="lock" className="w-3.5 h-3.5" /> Login
           </a>
           <div className="hidden sm:block w-px h-3.5 bg-white/20"></div>
-          <a href="#" className="hidden sm:inline-flex items-center gap-1.5 text-white transition-colors duration-200 hover:text-gold-light shrink-0">
-            <Icon name="phone" className="w-3.5 h-3.5" /> <span className="overflow-hidden text-ellipsis whitespace-nowrap">0522-2970510</span>
+          <a href="tel:0522-2970510" className="hidden sm:inline-flex items-center gap-1.5 text-white transition-colors duration-200 hover:text-gold-light shrink-0">
+            <Icon name="phone" className="w-3.5 h-3.5" /> 0522-2970510
           </a>
-          <a href="#" className="hidden md:inline-flex items-center gap-1.5 text-white transition-colors duration-200 hover:text-gold-light">
+          <a href="mailto:info@srmcem.ac.in" className="hidden md:inline-flex items-center gap-1.5 text-white transition-colors duration-200 hover:text-gold-light">
             <Icon name="mail" className="w-3.5 h-3.5" /> info@srmcem.ac.in
           </a>
           <div className="hidden md:block w-px h-3.5 bg-white/20"></div>
