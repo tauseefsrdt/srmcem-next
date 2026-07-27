@@ -1,19 +1,13 @@
 import React from "react";
 import Head from "next/head";
-import { useRouter } from "next/router";
 import Classes from "../../utils/styles/Global.module.css";
-import { blogs } from "../../data/blogsData";
+import { Blog } from "../../data/blogsData";
 
-const BlogDetails: React.FC = () => {
-    const router = useRouter();
-    const { slug } = router.query;
-    
-    if (!router.isReady) {
-        return <div className="py-20 text-center text-gray-500">Loading...</div>;
-    }
+interface BlogDetailsProps {
+    blog: Blog | null;
+}
 
-    const blog = blogs.find((b) => b.slug === slug);
-
+const BlogDetails: React.FC<BlogDetailsProps> = ({ blog }) => {
     if (!blog) {
         return (
             <div className="py-20 text-center">
