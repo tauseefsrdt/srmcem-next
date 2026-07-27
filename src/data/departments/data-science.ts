@@ -1415,7 +1415,9 @@ const ec3 = "/pdf/department/electronics-engineering/EC_Magazine_2024-25.pdf";
 
 
 const eemag = "/pdf/department/electrical-engineering/EE magzine_Electra Vista session 2024-25  (1).pdf";
-
+const SakshiRastogi = "/images/departMent/Sakshi Rastogi.png";
+const Nitish_pandey = "/images/departMent/Nitish Pandey.png";
+const IshikaPal = "/images/departMent/Ishika Pal.png";
 
 export const DepartmentDataScienceTabData: customTabDataTypes[] = [
   {
@@ -1523,7 +1525,6 @@ export const DepartmentDataScienceTabData: customTabDataTypes[] = [
               listBold: "PO11: Life-Long Learning:",
               list: "- Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change. (WK8)",
             },
-
           ],
         },
         content: [
@@ -1549,8 +1550,7 @@ export const DepartmentDataScienceTabData: customTabDataTypes[] = [
               {
                 id: 3,
                 bold: "PEO 4: ",
-                value:
-                  " To be a team player who has respect and consideration for all team members.",
+                value: " To be a team player who has respect and consideration for all team members.",
               },
             ],
           },
@@ -1612,8 +1612,7 @@ export const DepartmentDataScienceTabData: customTabDataTypes[] = [
               designation: "Dr. Sadhna Rana, HOD & Associate Professor",
               email: "sadhanarana@gmail.com",
               orcid: "0009-0009-9211-3312",
-              aboutData:
-                `Dr. Sadhana Rana is serving as the Head of the
+              aboutData: `Dr. Sadhana Rana is serving as the Head of the
 Department and Associate Professor in the
 AIML, Data Science Department, bringing over
 15 years of extensive teaching experience in the
@@ -1665,8 +1664,7 @@ institution.`,
               designation: "Er. Aayush Pratap Singh, Assistant Professor",
               email: "aayush.cs@srmcem.ac.in",
               orcid: "0009-0009-5347-0739",
-              aboutData:
-                `Er. Aayush Pratap Singh is working as an
+              aboutData: `Er. Aayush Pratap Singh is working as an
 assistant professor. He has teaching experience
 of 5 years in wellborn soft. He has working
 experience of 2.5 year as software testing
@@ -1692,8 +1690,7 @@ python programming.`,
               designation: "Er. Himashi Singh, Assistant Professor",
               email: "himanshisingh.cs@srmcem.ac.in",
               orcid: "0009-0007-0592-3313",
-              aboutData:
-                `Er. Himanshi Singh has a graduate and
+              aboutData: `Er. Himanshi Singh has a graduate and
 postgraduate degree in Computer Science and
 Engineering. She has a Bachelor of Computer
 Application from Punjab Technical University,
@@ -1722,7 +1719,7 @@ and Technology.`,
             //               orcid: "0009-0003-9382-8404",
             //               aboutData:
             //                 `Er. Priyanshi Dwivedi is working as an Assistant Professor in the department of CSE (AIML/DS). She has more than one year of experience. She has one patent and also published ample of Research papers in various reputed journals and international conferences. She is also completed various faculty development program such as “UHV IN TECHNICAL EDUCATION” By AICTE.
-            // She has done B.SC (Computer Science) from University of Lucknow and also completed MCA from University of Lucknow. Her areas of interest include Discrete Mathematics, Theory of Automata, DAA, Software Engineering, Database Management System, Cyber Security, operating System, Computer networks. She has taught Discrete mathematics, Database Management System, Computer networks, Application of soft computing, Cloud computing. She also guided various engineering project in the field of computer science and engineering. 
+            // She has done B.SC (Computer Science) from University of Lucknow and also completed MCA from University of Lucknow. Her areas of interest include Discrete Mathematics, Theory of Automata, DAA, Software Engineering, Database Management System, Cyber Security, operating System, Computer networks. She has taught Discrete mathematics, Database Management System, Computer networks, Application of soft computing, Cloud computing. She also guided various engineering project in the field of computer science and engineering.
             // `,
             //             },
             {
@@ -1732,8 +1729,7 @@ and Technology.`,
               designation: "Er. Ayodhya Prasad, Assistant Professor",
               email: "",
               orcid: "",
-              aboutData:
-                `Er. Ayodhya Prasad is associated with
+              aboutData: `Er. Ayodhya Prasad is associated with
 SRMCEM as an Assistant Professor at AIML
 &amp;amp; DS Deptt., where he engages in
 teaching, mentoring, and academic support.
@@ -1762,8 +1758,7 @@ international journals.`,
               designation: "Er. Shubham Kumar, Assistant Professor",
               email: "shubham.cs@srmcem.ac.in",
               orcid: "0009-0000-7419-6235",
-              aboutData:
-                `Er. Shubham Kumar is currently working as an
+              aboutData: `Er. Shubham Kumar is currently working as an
 Assistant Professor. He holds an M.Tech in
 Software Engineering from Babasaheb
 Bhimrao Ambedkar University, Lucknow (UP),
@@ -1820,8 +1815,7 @@ Indicator” (Design Application No.: 447702-
               designation: "Asit Kumar Gahalaut",
               email: "",
               orcid: "",
-              aboutData:
-                `Er. Asit Kumar Gahalaut is a Postgraduate in
+              aboutData: `Er. Asit Kumar Gahalaut is a Postgraduate in
 Computer Science and Engineering with
 specialization Software, Engineering from
 renowned Punjab Engineering College
@@ -1844,8 +1838,7 @@ and recently associated with this department.`,
               designation: "Er. Rizwana Iqbal Ansari, Assistant Professor",
               email: "rizwanaansari.ca@srmcem.ac.in ",
               orcid: "0009-0000-7829-3358",
-              aboutData:
-                `Er. Rizwana Iqbal Ansari is working as an
+              aboutData: `Er. Rizwana Iqbal Ansari is working as an
 Assistant Professor at SRMCEM.She has completed her MCA from Lal Bahadur Shastri
 Institute of Management and Development
 Studies (LBSIMDS), Lucknow, and her BCA
@@ -1863,8 +1856,7 @@ Analytics, and Database Management Systems.`,
               designation: "Er. Kavya Singh, Assistant Professor ",
               email: "",
               orcid: "",
-              aboutData:
-                `
+              aboutData: `
 Er. Kavya Singh is an Assistant Professor in
 the AIML &amp;amp; DS Department at SRMCEM
 with 1 year of teaching experience. She
@@ -1889,8 +1881,7 @@ international journals.
               designation: "Er. Nitish Kr Maurya, Assistant Professor",
               email: "nitishmaurya.ca@srmcem.ac.in",
               orcid: "0009-00036065-6298",
-              aboutData:
-                `Er. Nitish Kr Maurya is working as an
+              aboutData: `Er. Nitish Kr Maurya is working as an
 Assistant Professor at SRMCEM.he has
 completed his Bachelor of Computer
 Applications from Dr.RML Avadh University
@@ -1903,6 +1894,34 @@ classroom.His areas of interest are Product
 Development, Generative Ai, and applied
 software development.`,
             },
+            {
+              id: 11,
+              imgSrc: Nitish_pandey, // Replace with the correct image variable if available
+              education: "M.C.A (Software Engineering)",
+              designation: "Er. Neetesh Pandey, Assistant Professor",
+              email: "neeteshpandey.cs@srmcem.ac.in",
+              orcid: "0009-0008-7835-0242",
+              aboutData: `Er. Neetesh Pandey is working as an Assistant Professor in the Department of Computer Science & Engineering at SRMCEM. He completed his Master of Computer Applications (MCA) from Integral University, Lucknow, and Bachelor of Computer Applications (BCA) from Babu Banarasi Das University, Lucknow. His areas of interest include Discrete Structures and Theory of Logic, Cyber Security, Computer Networks, Operating Systems, Database Management Systems, Web Technologies, Data Structures, Java, Python, C, C++, Digital Electronics, Design and Analysis of Algorithms, Software Engineering, Data Analytics, Computer Organization & Architecture, and Deep Learning. He is committed to promoting quality education through outcome-based teaching and hands-on learning experiences.`,
+            },
+            {
+              id: 12,
+              imgSrc: IshikaPal, // Replace with the correct image import
+              education: "M.C.A (Software Engineering)",
+              designation: "Er. Ishika Pal, Assistant Professor",
+              email: "iahikapal.cs@srmcem.ac.in",
+              orcid: "",
+              aboutData: `Er. Ishika Pal is working as an Assistant Professor in the Department of Computer Science & Engineering at SRMCEM. She completed her Master of Computer Applications (MCA) from Babu Banarasi Das University, Lucknow, and Bachelor of Computer Applications (BCA) from Pt. Sukhraj Raghunathi Institute of Education & Technology, Pratapgarh. Her areas of interest include Artificial Intelligence, Machine Learning, Cyber Security, Computer Networks, Operating Systems, Database Management Systems, Web Technologies, Data Structures, Software Engineering, Data Analytics, and Computer Organization & Architecture. She is committed to promoting quality education through outcome-based teaching and hands-on learning experiences.`,
+            },
+            {
+              id: 13,
+              imgSrc: SakshiRastogi, // Replace with the correct image import
+              education: "M.Tech. (Software Engineering)",
+              designation: "Er. Sakshi Rastogi, Assistant Professor",
+              email: "sakshirastogi.cs@srmcem.ac.in",
+              orcid: "0009-0009-6773-2664",
+              aboutData: `Er. Sakshi Rastogi is working as an Assistant Professor at SRMCEM with 3 years and 11 months of teaching experience. She completed her M.Tech. in Software Engineering from Babu Banarasi Das University, Lucknow, and B.Tech. in Computer Science & Engineering from Invertis University, Bareilly. Her areas of interest include Java, Artificial Intelligence, Machine Learning, Generative AI, and Software Engineering. She has mentored numerous student projects, published two research papers in reputed conferences, contributed one book chapter, and served as an Organizing Committee Member for CVR 2023. She is also the author of the book "Principles of Generative AI: A Practical Guide to Modern Generative AI" and served as a Session Chair at the International Conference on Sustainable Engineering & AI Solutions (ICSEAIS-2026).`,
+            },
+
             // {
             //   id: 13,
             //   imgSrc: dsfa13,
@@ -2240,7 +2259,7 @@ software development.`,
               },
             ],
           },
-          
+
           {
             id: 1,
             title: "Computer Organization and Architecture Lab:",
@@ -2912,7 +2931,6 @@ software development.`,
                     titleOfCertification: "Title Of Certification",
                     typeOfCertification: "Type Of Certification",
                     dateOfConduction: "Date Of Conduction",
-
                   },
                 ],
                 rowData: [
@@ -2923,7 +2941,6 @@ software development.`,
                     titleOfCertification: "Won 1st Position in Line Follower at botFiesta 2025, MUIT",
                     typeOfCertification: "Robotics Competition",
                     dateOfConduction: "Nov 2025",
-
                   },
                   {
                     id: 2,
@@ -2932,7 +2949,6 @@ software development.`,
                     titleOfCertification: "2nd Runner Up in Drone at INFOTSAV 2025 IIITM Gwalior",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Sept 2025",
-
                   },
                   {
                     id: 3,
@@ -2941,7 +2957,6 @@ software development.`,
                     titleOfCertification: "1st Runner up at IICH 2025 Organised by BIET",
                     typeOfCertification: "Hackathon",
                     dateOfConduction: "Nov 2025",
-
                   },
                   {
                     id: 4,
@@ -2950,7 +2965,6 @@ software development.`,
                     titleOfCertification: "1st Position in Armageddon 15Kg at Cognizance 2025, IIT Roorkee",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Sept 2025",
-
                   },
                   {
                     id: 5,
@@ -2959,7 +2973,6 @@ software development.`,
                     titleOfCertification: "2nd Position in Armageddon 30Kg at Cognizance 2025, IIT Roorkee",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Aug 2025",
-
                   },
                   {
                     id: 6,
@@ -2968,7 +2981,6 @@ software development.`,
                     titleOfCertification: "1st Runner Up in 30Kg Bots Combat at Technooxian World Cup 9.0, Noida",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Aug 2025",
-
                   },
                   {
                     id: 7,
@@ -2977,7 +2989,6 @@ software development.`,
                     titleOfCertification: "1st Place – 8 kg Robo War - Hosted at Indian Institute of Technology (BHU) Varanasi as part of TECHNEX 2K26",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Feb 2026",
-
                   },
                   {
                     id: 8,
@@ -2986,7 +2997,6 @@ software development.`,
                     titleOfCertification: "1st Position in the Drone Race at TECHNEX 2K26 organized at Indian Institute of Technology (BHU) Varanasi",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Feb 2026",
-
                   },
                   {
                     id: 9,
@@ -2995,7 +3005,6 @@ software development.`,
                     titleOfCertification: "2nd Position in Inter-Institutional Idea Challenge Hackathon at BIET Lucknow",
                     typeOfCertification: "Hackathon",
                     dateOfConduction: "Nov 2025",
-
                   },
                   {
                     id: 10,
@@ -3004,7 +3013,6 @@ software development.`,
                     titleOfCertification: "15kg Robo War at GANTAVYA",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Feb 2026",
-
                   },
                   {
                     id: 11,
@@ -3013,7 +3021,14 @@ software development.`,
                     titleOfCertification: "Indian AI Buildathon, A nationwide AI innovation challenge conducted at the India AI Impact Summit 2026",
                     typeOfCertification: "Buildathon",
                     dateOfConduction: "Feb 2026",
-
+                  },
+                  {
+                    id: 12,
+                    sNo: 12,
+                    name: "Ms. Rizwana Iqbal Ansari",
+                    titleOfCertification: "Universal Human Values-II (UHV-II)",
+                    typeOfCertification: "Capacity Building Programme (CBP) cum Faculty Development Programme (FDP)",
+                    dateOfConduction: "June 2026",
                   },
                 ],
               },
@@ -3045,24 +3060,24 @@ software development.`,
                     dateOfConduction: "August 2025",
                     organisedBy: "NIT Puducherry",
                   },
-                  {
-                    id: 3,
-                    sNo: 3,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "10th International Conference on Human Values in Higher Education (ICHVHE 2025)",
-                    typeOfCertification: "International Conference",
-                    dateOfConduction: "December 2025",
-                    organisedBy: "AICTE",
-                  },
-                  {
-                    id: 4,
-                    sNo: 4,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Internet society membership",
-                    typeOfCertification: "Membership",
-                    dateOfConduction: "August 2025",
-                    organisedBy: "Internet Society",
-                  },
+                  // {
+                  //   id: 3,
+                  //   sNo: 3,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "10th International Conference on Human Values in Higher Education (ICHVHE 2025)",
+                  //   typeOfCertification: "International Conference",
+                  //   dateOfConduction: "December 2025",
+                  //   organisedBy: "AICTE",
+                  // },
+                  // {
+                  //   id: 4,
+                  //   sNo: 4,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Internet society membership",
+                  //   typeOfCertification: "Membership",
+                  //   dateOfConduction: "August 2025",
+                  //   organisedBy: "Internet Society",
+                  // },
                   {
                     id: 5,
                     sNo: 5,
@@ -3072,15 +3087,15 @@ software development.`,
                     dateOfConduction: "December 2025",
                     organisedBy: "Amity University",
                   },
-                  {
-                    id: 6,
-                    sNo: 6,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Internet society membership",
-                    typeOfCertification: "Membership",
-                    dateOfConduction: "August 2025",
-                    organisedBy: "Internet Society",
-                  },
+                  // {
+                  //   id: 6,
+                  //   sNo: 6,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Internet society membership",
+                  //   typeOfCertification: "Membership",
+                  //   dateOfConduction: "August 2025",
+                  //   organisedBy: "Internet Society",
+                  // },
                 ],
               },
             },
@@ -3120,24 +3135,24 @@ software development.`,
                     dateOfConduction: "Oct 2025",
                     organisedBy: "SRMCEM",
                   },
-                  {
-                    id: 3,
-                    sNo: 3,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Next Generation Technology Agentic AI / UIV",
-                    typeOfCertification: "Two-Day Workshop / AICTE UIV FDP",
-                    dateOfConduction: "August 2025",
-                    organisedBy: "SRMU / SRMCEM, LUCKNOW",
-                  },
-                  {
-                    id: 4,
-                    sNo: 4,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Big Data Analytics Server Machine for Cloud Computing",
-                    typeOfCertification: "Design Patent",
-                    dateOfConduction: "July 2025",
-                    organisedBy: "The Patent Office, GOI",
-                  },
+                  // {
+                  //   id: 3,
+                  //   sNo: 3,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Next Generation Technology Agentic AI / UIV",
+                  //   typeOfCertification: "Two-Day Workshop / AICTE UIV FDP",
+                  //   dateOfConduction: "August 2025",
+                  //   organisedBy: "SRMU / SRMCEM, LUCKNOW",
+                  // },
+                  // {
+                  //   id: 4,
+                  //   sNo: 4,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Big Data Analytics Server Machine for Cloud Computing",
+                  //   typeOfCertification: "Design Patent",
+                  //   dateOfConduction: "July 2025",
+                  //   organisedBy: "The Patent Office, GOI",
+                  // },
                   {
                     id: 5,
                     sNo: 5,
@@ -3183,37 +3198,29 @@ software development.`,
                     dateOfConduction: "Feb 2026",
                     organisedBy: "edunet",
                   },
-                  {
-                    id: 10,
-                    sNo: 10,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Internet society membership",
-                    typeOfCertification: "Membership",
-                    dateOfConduction: "August 2025",
-                    organisedBy: "Internet Society",
-                  },
-                  {
-                    id: 11,
-                    sNo: 11,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Inculkating Universal Human Values in Technical Education",
-                    typeOfCertification: "3-day Face-to-Face FDP",
-                    dateOfConduction: "August 2025",
-                    organisedBy: "AICTE",
-                  },
+                  // {
+                  //   id: 10,
+                  //   sNo: 10,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Internet society membership",
+                  //   typeOfCertification: "Membership",
+                  //   dateOfConduction: "August 2025",
+                  //   organisedBy: "Internet Society",
+                  // },
+                  // {
+                  //   id: 11,
+                  //   sNo: 11,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Inculkating Universal Human Values in Technical Education",
+                  //   typeOfCertification: "3-day Face-to-Face FDP",
+                  //   dateOfConduction: "August 2025",
+                  //   organisedBy: "AICTE",
+                  // },
                 ],
               },
             },
-
-
-
-
-
           ],
         },
-
-
-
       },
       {
         id: 6,

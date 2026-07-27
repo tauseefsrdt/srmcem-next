@@ -193,10 +193,9 @@ const Hero = () => {
               <span className="w-1.5 h-1.5 mr-2.5 rounded-full bg-white shadow-[0_0_8px_rgba(193,30,36,0.9)] animate-softPulse"></span>
               Admissions 2026–27 Now Open
             </div>
-            <h1 className="animate-fadeUp [animation-delay:0.15s] font-serif font-black text-[clamp(22px,2.5vw,38px)] leading-[1.12] text-white mb-3">
-              Shape Your Future at the <span className="text-[#ffc107]"> Best AKTU College for B.Tech </span> in Lucknow
-
-            </h1>
+            <div className="animate-fadeUp  [animation-delay:0.15s] font-serif font-black text-[clamp(22px,2.5vw,38px)] leading-[1.35] text-white mb-3">
+              Shape Your Future at the <h1 className="text-white !inline"> <span className="text-[#ffc107]"> Best AKTU College for B.Tech </span> in Lucknow </h1>
+            </div>
             <h2 className="animate-fadeUp [animation-delay:0.25s] text-sm sm:text-[16px] leading-[1.5] text-white/85">
               AICTE Approved & AKTU Affiliated Engineering and Management Programs.
             </h2>

@@ -37,11 +37,11 @@ const BlogList: React.FC = () => {
                             {/* Image */}
                             {blog.imagePath && (
                                 <div className="relative h-48 overflow-hidden bg-gray-200">
-                                    <img 
-                                        src={typeof blog.imagePath === 'object' ? (blog.imagePath as any).src : blog.imagePath} 
-                                        alt={blog.title} 
-                                        className="w-full h-full object-cover hover:scale-105 transition-transform duration-300" 
-                                        loading="lazy" 
+                                    <img
+                                        src={typeof blog.imagePath === 'object' ? (blog.imagePath as any).src : blog.imagePath}
+                                        alt={blog.title}
+                                        className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                                        loading="lazy"
                                     />
                                     {/* Category Badge */}
                                     <span className="absolute top-3 right-3 bg-[#ffb703] text-[#0f4a85] px-3 py-1 rounded-full text-xs font-semibold">{getCategory(blog.description)}</span>

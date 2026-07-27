@@ -105,7 +105,7 @@ const TestmonialSlider: React.FC = () => {
                         </div>
                         <div className="min-w-0">
                           <div className="font-serif text-[16px] font-bold text-navy-dark leading-tight truncate">{alumnus.name}</div>
-                          <div className="text-[#8F171C] text-[11px] font-semibold mt-0.5 line-clamp-1">{alumnus.degree}</div>
+                          <div className="text-[#8F171C] text-[11px] font-semibold mt-0.5 line-clamp-1">{alumnus.company}</div>
                           <Stars className="text-[12px] mt-1" />
                         </div>
                       </div>

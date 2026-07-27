@@ -24,7 +24,6 @@ const p11 = "/images/departMent/mechanical-engineering/new-img/image (11).png";
 const p12 = "/images/departMent/mechanical-engineering/new-img/image (12).png";
 const p13 = "/images/departMent/mechanical-engineering/new-img/image (13).png";
 
-
 const newLab1 = "/images/departMent/cybersecurity/newLab/image (34).png";
 const newLab2 = "/images/departMent/cybersecurity/newLab/image (35).png";
 const newLab3 = "/images/departMent/cybersecurity/newLab/image (36).png";
@@ -41,9 +40,6 @@ const newLab13 = "/images/departMent/cybersecurity/newLab/image (46).png";
 const newLab14 = "/images/departMent/computer-science/new/Compiler Design Lab picture.jpeg";
 const newLab15 = "/images/departMent/cybersecurity/newLab/image (48).png";
 
-
-
-
 const itFac = "/images/departMent/ITDepartment/newFac/Dr. Richa Sharma.jpg";
 const itFac1 = "/images/departMent/ITDepartment/newFac/Dr. Ashish Awasthi.jpg";
 const itFac2 = "/images/departMent/ITDepartment/newFac/Er. Akshita agarwal.jpg";
@@ -57,15 +53,8 @@ const itFac9 = "/images/departMent/ITDepartment/newFac/Er. Shilpi Khanna.jpg";
 const itFac10 = "/images/departMent/ITDepartment/newFac/Er. Vijay Shukla.png";
 const itFac11 = "/images/departMent/ITDepartment/newFac/Prof. Ajay Srivastava.jpg";
 
-
-
-
-
-
 const eegalnew1 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-06-13 113755.png";
 const eegalnew2 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-06-13 113806.png";
-
-
 
 const eegal1 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-06-13 113700.png";
 // const eegal2 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-04-24 173607.png";
@@ -81,8 +70,6 @@ const eegal10 = "/images/departMent/electrical-engineering/gallery/Screenshot 20
 const eegal12 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-06-13 113746.png";
 // const eegal13 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-04-24 174109.png";
 // const eegal14 = "/images/departMent/electrical-engineering/gallery/Screenshot 2026-04-24 174135.png";
-
-
 
 const ecgal1 = "/images/departMent/electronicComm/gallery/Screenshot 2026-04-25 142838.png";
 const ecgal2 = "/images/departMent/electronicComm/gallery/Screenshot 2026-04-25 142844.png";
@@ -105,10 +92,6 @@ const ecgal18 = "/images/departMent/electronicComm/gallery/Screenshot 2026-04-25
 const ecgal19 = "/images/departMent/electronicComm/gallery/Screenshot 2026-04-25 143209.png";
 const ecgal20 = "/images/departMent/electronicComm/gallery/Screenshot 2026-04-25 143218.png";
 
-
-
-
-
 const Ankita = "/images/departMent/electronicComm/faculty/Ankita.png";
 const Anushka = "/images/departMent/electronicComm/faculty/Anushka.png";
 const Ashish = "/images/departMent/electronicComm/faculty/Ashish.png";
@@ -121,10 +104,6 @@ const Sanjay = "/images/departMent/electronicComm/faculty/Sanjay.png";
 const Sonam = "/images/departMent/electronicComm/faculty/Sonam.png";
 const Uddaish = "/images/departMent/electronicComm/faculty/Uddaish.png";
 
-
-
-
-
 const Amit = "/images/departMent/electrical-engineering/faculty/Amit .png";
 const Bhupesh = "/images/departMent/electrical-engineering/faculty/Bhupesh .png";
 const Indu = "/images/departMent/electrical-engineering/faculty/Indu .png";
@@ -132,27 +111,13 @@ const Jayati = "/images/departMent/electrical-engineering/faculty/Jayati .png";
 const Sandhya = "/images/departMent/electrical-engineering/faculty/Sandhya .png";
 const Satyendra = "/images/departMent/electrical-engineering/faculty/Satyendra .png";
 
-
-
-
-
-
-
-
 const pacPdf = "/pdf/department/IT/pac/IT_PAC_2023-24_Odd.pdf";
 const pacPdf1 = "/pdf/department/IT/pac/IT_PAC_2024-25_Odd.pdf";
 const pacPdf2 = "/pdf/department/IT/pac/IT_PAC_2025-26_Odd.pdf";
 // const pacPdf2 = "/pdf/department/IT/pac/IT_PAC_2025-26_Odd.pdf";
 
-
-
 const pacPdf3 = "/pdf/department/IT/pac/even/IT_PAC_2023-24_Even.pdf";
 const pacPdf4 = "/pdf/department/IT/pac/even/IT_PAC_2024-25_Even.pdf";
-
-
-
-
-
 
 const app1 = "/images/departMent/computer-application/new_gal/Screenshot 2026-04-18 143104.png";
 const app2 = "/images/departMent/computer-application/new_gal/Screenshot 2026-04-18 143119.png";
@@ -167,15 +132,10 @@ const app10 = "/images/departMent/computer-application/new_gal/Screenshot 2026-0
 const app11 = "/images/departMent/computer-application/new_gal/Screenshot 2026-04-18 143340.png";
 const app12 = "/images/departMent/computer-application/new_gal/Screenshot 2026-04-18 143351.png";
 
-
-
 const prof2 = "/images/departMent/computer-application/prof/image.png";
 const prof3 = "/images/departMent/computer-application/prof/image (1).png";
 const prof4 = "/images/departMent/computer-application/prof/image (2).png";
 const prof5 = "/images/departMent/computer-application/prof/image (3).png";
-
-
-
 
 const nwpro1 = "/images/departMent/computer-science/members/newImg/image (14).png";
 const nwpro2 = "/images/departMent/computer-science/members/newImg/image (15).png";
@@ -197,13 +157,6 @@ const nwpro17 = "/images/departMent/computer-science/members/newImg/image (30).p
 const nwpro18 = "/images/departMent/computer-science/members/newImg/image (31).png";
 const nwpro199 = "/images/departMent/computer-science/members/newImg/Screenshot 2026-06-19 104543.png";
 
-
-
-
-
-
-
-
 const ganew1 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 2026-03-20 at 23.16.26.jpeg";
 const ganew2 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 2026-03-20 at 23.16.42.jpeg";
 const ganew3 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 2026-03-20 at 23.17.02.jpeg";
@@ -223,10 +176,6 @@ const ganew16 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 
 const ganew17 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 2026-03-20 at 23.22.29.jpeg";
 const ganew18 = "/images/departMent/civil_engineering/newgallery/WhatsApp Image 2026-03-20 at 23.22.47.jpeg";
 
-
-
-
-
 const eclabb1 = "/images/departMent/electronicComm/image (22).png";
 const eclabb2 = "/images/departMent/electronicComm/image (23).png";
 const eclabb3 = "/images/departMent/electronicComm/image (24).png";
@@ -239,14 +188,6 @@ const eclabb9 = "/images/departMent/electronicComm/image (30).png";
 const eclabb10 = "/images/departMent/electronicComm/image (31).png";
 const eclabb11 = "/images/departMent/electronicComm/image (32).png";
 const eclabb12 = "/images/departMent/electronicComm/image (33).png";
-
-
-
-
-
-
-
-
 
 const ceLab1 = "/images/departMent/civil_engineering/CELabImgs/1.jpg";
 const ceLab2 = "/images/departMent/civil_engineering/CELabImgs/2.jpg";
@@ -380,7 +321,6 @@ const Shilpi = "/images/departMent/management/faculty/Shilpi.png";
 const Shivangi = "/images/departMent/management/faculty/Shivangi.png";
 const Shujauddin = "/images/departMent/management/faculty/Shujauddin.png";
 
-
 // const managementimg11 = "/images/departMent/management/Pragati_malik_HOD.jpg";
 // const managementimg = "/images/departMent/management/boddy.jpg";
 // const managementimg1 = "/images/departMent/management/laju.jpg";
@@ -457,17 +397,13 @@ const mbaBos11 = "/pdf/department/management/PAC_Minutes of Meeting_04-03-2025.p
 // const eepacO2 = "/pdf/department/electrical-engineering/EE_15thPAC_2023-24(ODD).pdf";
 // const eepacO3 = "/pdf/department/electrical-engineering/EE_19th PAC_2025-26_Odd Semester.pdf";
 
-
 const eepacO4 = "/pdf/department/electrical-engineering/pac/EE_PAC_2023-24_Even Semester.pdf";
 const eepacO5 = "/pdf/department/electrical-engineering/pac/EE_PAC_2024-25_Even semester.pdf";
 const eepacO6 = "/pdf/department/electrical-engineering/pac/EE_PAC_2025-26_Even Semester.pdf";
 
-
 const eepacO7 = "/pdf/department/electrical-engineering/pac/odd/EE_PAC_2023-24_Odd Semester.pdf";
 const eepacO8 = "/pdf/department/electrical-engineering/pac/odd/EE_PAC_2024-25_Odd semester.pdf";
 const eepacO9 = "/pdf/department/electrical-engineering/pac/odd/EE_PAC_2025-26_Odd semester.pdf";
-
-
 
 const lab1 = "/pdf/department/electrical-engineering/lab/image (13).png";
 const lab2 = "/pdf/department/electrical-engineering/lab/image (14).png";
@@ -476,9 +412,6 @@ const lab4 = "/pdf/department/electrical-engineering/lab/image (16).png";
 const lab5 = "/pdf/department/electrical-engineering/lab/image (17).png";
 const lab6 = "/pdf/department/electrical-engineering/lab/image (18).png";
 const lab7 = "/pdf/department/electrical-engineering/lab/image (19).png";
-
-
-
 
 const itlabnew1 = "/images/departMent/ITDepartment/lab/DSC_4567.jpg";
 const itlabnew2 = "/images/departMent/ITDepartment/lab/DSC_4568.jpg";
@@ -491,7 +424,6 @@ const itlabnew8 = "/images/departMent/ITDepartment/lab/DSC_5514.jpg";
 const itlabnew9 = "/images/departMent/ITDepartment/lab/DSC_5516.jpg";
 const itlabnew10 = "/images/departMent/ITDepartment/lab/DSC_5520.jpg";
 const itlabnew11 = "/images/departMent/ITDepartment/lab/DSC_5522.jpg";
-
 
 // const departmentLibrarryEE = "/pdf/departMent/electrical-engineering/B.tech_EE.pdf";
 // const ecimg31 = "/images/departMent/electronics-engineering/Prof. (Dr.) Indu Prabha Singh_new.jpg";
@@ -520,8 +452,6 @@ const ecimg21 = "/images/departMent/electronics-engineering/21.Sangeet Kumar.png
 // const ecimg23 = "/images/departMent/electronics-engineering/23.Er. Abhishek Verma.png";
 // const ecimg24 = "/images/departMent/electronics-engineering/24.Dr. Akhilesh Kumar Gupta.png";
 
-
-
 const Sadhana = "/images/departMent/ai-ml/new/Sadhana.png";
 const Anuj = "/images/departMent/ai-ml/new/Anuj.png";
 // const Shubham = "/images/departMent/ai-ml/new/Shubham.png";
@@ -534,15 +464,11 @@ const Ayodhya = "/images/departMent/ai-ml/new/Ayodhya.png";
 const Himanshi = "/images/departMent/ai-ml/new/Himanshi.png";
 const Aayush = "/images/departMent/ai-ml/new/Aayush.png";
 
-
-
 const aigal1 = "/images/departMent/ai-ml/gallery/Screenshot 2026-06-10 140806.png";
 const aigal2 = "/images/departMent/ai-ml/gallery/Screenshot 2026-06-10 140816.png";
 const aigal3 = "/images/departMent/ai-ml/gallery/Screenshot 2026-06-10 140823.png";
 const aigal4 = "/images/departMent/ai-ml/gallery/Screenshot 2026-06-10 140831.png";
 const aigal5 = "/images/departMent/ai-ml/gallery/Screenshot 2026-06-10 140840.png";
-
-
 
 const aimllab1 = "/images/departMent/ai-ml/lab/Screenshot 2026-06-10 141528.png";
 const aimllab2 = "/images/departMent/ai-ml/lab/Screenshot 2026-06-10 141535.png";
@@ -551,7 +477,9 @@ const aimllab4 = "/images/departMent/ai-ml/lab/Screenshot 2026-06-10 141549.png"
 const aimllab5 = "/images/departMent/ai-ml/lab/Screenshot 2026-06-10 141558.png";
 // const aimllab6 = "/images/departMent/ai-ml/lab/Screenshot 2026-06-10 141606.png";
 const aimllab7 = "/images/departMent/ai-ml/lab/Screenshot 2026-06-10 141611.png";
-
+const SakshiRastogi = "/images/departMent/Sakshi Rastogi.png";
+const Nitish_pandey = "/images/departMent/Neetesh Pandey.png";
+const IshikaPal = "/images/departMent/Ishika Pal.png";
 const aimllab8 = "/images/departMent/ai-ml/lab/new/orgcom.png";
 const aimllab9 = "/images/departMent/ai-ml/lab/new/webdesign.png";
 const aimllab10 = "/images/departMent/ai-ml/lab/new/Screenshot 2026-06-10 143615.png";
@@ -561,8 +489,6 @@ const aimllab13 = "/images/departMent/ai-ml/lab/new/Screenshot 2026-06-10 143556
 const aimllab14 = "/images/departMent/ai-ml/lab/new/Screenshot 2026-06-10 143551.png";
 const aimllab15 = "/images/departMent/ai-ml/lab/new/image.png";
 const webt = "/images/departMent/ai-ml/lab/new/webt.png";
-
-
 
 // electronics pac
 // const ecpac26 = "/pdf/department/electronics-engineering/EC_PAC_2023-24 Even Semester.pdf";
@@ -795,11 +721,9 @@ const cse_magzine_2024 = "/pdf/department/cse/magazine/CSE___23-24.pdf";
 const cse_magzine_2023 = "/pdf/department/cse/magazine/CSE_22-23.pdf";
 const cse_magzine_2025 = "/pdf/department/cse/magazine/CSE - 24-25.pdf";
 
-
 const csePAC2526 = "/pdf/department/cse/CSE_PAC_2025-26_Odd Semester.pdf";
 const csePAC2526Even = "/pdf/department/cse/CSE_PAC_2025-26 Even Semester.pdf";
 const csePAC21Even = "/pdf/department/cse/CSE_BOS_2021-22 Even Semester.pdf";
-
 
 // const pacOdd = "/pdf/department/electronics-engineering/pac/EC_PAC_2025-26 Odd Semester.pdf";
 
@@ -884,13 +808,7 @@ const managementnewGallery13 = "/images/departMent/management/gallery/new/Screen
 // const mechanicalGallery16 = "/images/departMent/mechanical-engineering/gallery/mechanicalGallery16.jpg";
 // const mechanicalGallery17 = "/images/departMent/mechanical-engineering/gallery/mechanicalGallery17.jpg";
 
-
-
 const newpdf = "/pdf/department/mechanical-engineering/ME_PAC_2025-26 Even Semester.pdf";
-
-
-
-
 
 const labig1 = "/images/departMent/computer-application/lab/image (4).png";
 const labig2 = "/images/departMent/computer-application/lab/image (5).png";
@@ -901,10 +819,6 @@ const labig6 = "/images/departMent/computer-application/lab/image (9).png";
 const labig7 = "/images/departMent/computer-application/lab/image (10).png";
 const labig8 = "/images/departMent/computer-application/lab/image (11).png";
 const labig9 = "/images/departMent/computer-application/lab/image (12).png";
-
-
-
-
 
 const gal1 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 2026-04-13 144203.png";
 const gal2 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 2026-04-13 144219.png";
@@ -938,8 +852,6 @@ const gal29 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 
 const gal30 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 2026-04-13 144843.png";
 const gal31 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 2026-04-13 144903.png";
 const gal32 = "/images/departMent/mechanical-engineering/new_gallery/Screenshot 2026-04-13 144914.png";
-
-
 
 // const eec1 = "/images/departMent/electronics-engineering/lab/image1.png";
 // const eec2 = "/images/departMent/electronics-engineering/lab/image2.png";
@@ -1050,9 +962,6 @@ const csfac12 = "/images/departMent/computer-science/members/12.jpg";
 // const csga54 = "/images/departMent/computer-science/gallery/word_media_image17cs.jpeg";
 // const csga55 = "/images/departMent/computer-science/gallery/word_media_image18cs.jpeg";
 
-
-
-
 // const newcse1 = "/images/departMent/computer-science/new/9.png";
 // const newcse2 = "/images/departMent/computer-science/new/22.png";
 // const newcse3 = "/images/departMent/computer-science/new/21.png";
@@ -1063,7 +972,6 @@ const csfac12 = "/images/departMent/computer-science/members/12.jpg";
 // const newcse8 = "/images/departMent/computer-science/new/14.png";
 // const newcse9 = "/images/departMent/computer-science/new/13.png";
 // const newcse10 = "/images/departMent/computer-science/new/12.png";
-
 
 const newcse1 = "/images/departMent/computer-science/new/gallery/1.png";
 const newcse10 = "/images/departMent/computer-science/new/gallery/10.png";
@@ -1087,8 +995,6 @@ const newcse6 = "/images/departMent/computer-science/new/gallery/6.png";
 const newcse7 = "/images/departMent/computer-science/new/gallery/7.png";
 const newcse8 = "/images/departMent/computer-science/new/gallery/8.png";
 const newcse9 = "/images/departMent/computer-science/new/gallery/9.png";
-
-
 
 // const cega1 = "/images/departMent/civil_engineering/gallery/1.jpeg";
 // const cega2 = "/images/departMent/civil_engineering/gallery/2.jpeg";
@@ -1223,8 +1129,6 @@ const cemag01 = "/pdf/department/civil-engineering/CE_Magazine Jan'26.pdf";
 // const ecga17 = "/images/departMent/electronics-engineering/gallery/word_media_image17.jpeg";
 // const ecga18 = "/images/departMent/electronics-engineering/gallery/word_media_image18.png";
 
-
-
 // const mcaga1 = "/images/departMent/computer-application/gallery/mcaga1.jpg";
 // const mcaga2 = "/images/departMent/computer-application/gallery/mcaga2.jpg";
 // const mcaga3 = "/images/departMent/computer-application/gallery/mcaga3.jpg";
@@ -1239,7 +1143,6 @@ const cemag01 = "/pdf/department/civil-engineering/CE_Magazine Jan'26.pdf";
 // const mcaga12 = "/images/departMent/computer-application/gallery/mcaga12.jpg";
 // const mcaga13 = "/images/departMent/computer-application/gallery/mcaga13.jpg";
 // const mcaga14 = "/images/departMent/computer-application/gallery/mcaga14.jpg";
-
 
 // const cynew1 = "/images/departMent/cybersecurity/new/gallery/1.png";
 const cynew2 = "/images/departMent/cybersecurity/new/gallery/2.png";
@@ -1263,16 +1166,14 @@ const cynew6 = "/images/departMent/cybersecurity/new/gallery/6.png";
 // const gait13 = "/images/departMent/ITDepartment/gallery/13.jpg";
 // const gait14 = "/images/departMent/ITDepartment/gallery/14.jpg";
 
-
-
-
-const gait15 = "/images/departMent/ITDepartment/gallery/new/A proud moment when the students of IT Department and from Grobots club won the events conducted in IIT BHU (TECHNEX 2k26) securing 2nd and 4th position in Maze Solving ..png";
+const gait15 =
+  "/images/departMent/ITDepartment/gallery/new/A proud moment when the students of IT Department and from Grobots club won the events conducted in IIT BHU (TECHNEX 2k26) securing 2nd and 4th position in Maze Solving ..png";
 const gait16 = "/images/departMent/ITDepartment/gallery/new/DATE - 11TH MAY , 2025 National Technology Day celebrated by IT Department..png";
-const gait17 = "/images/departMent/ITDepartment/gallery/new/DATE - 16TH FEB,2026 Glimpse from Spardha 2026 , a celebration of teamwork , discipline and sportsmanship graced by our revered founder and Executive Director Er.Pankaj Aggrawal sir and our respec.png";
+const gait17 =
+  "/images/departMent/ITDepartment/gallery/new/DATE - 16TH FEB,2026 Glimpse from Spardha 2026 , a celebration of teamwork , discipline and sportsmanship graced by our revered founder and Executive Director Er.Pankaj Aggrawal sir and our respec.png";
 const gait18 = "/images/departMent/ITDepartment/gallery/new/DATE - 25.png";
 const gait19 = "/images/departMent/ITDepartment/gallery/new/Gantavya.png";
 const gait20 = "/images/departMent/ITDepartment/gallery/new/WhatsApp Image 2.jpeg";
-
 
 const eepac1 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2022-23 Even Semester.pdf";
 const eepac2 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2023-24 Even Semester.pdf";
@@ -1283,9 +1184,6 @@ const eepac6 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2023-24 O
 const eepac7 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2024-25 Odd Semester.pdf";
 const eepac8 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2025-26 Odd Semester.pdf";
 // const eepac1 = "/pdf/department/electronics-engineering/pac/new/EC_PAC_2022-23 Even Semester.pdf";
-
-
-
 
 // const csm1 = "/images/departMent/cybersecurity/faculty/csm1.jpg";
 // const csm2 = "/images/departMent/cybersecurity/faculty/csm2.jpg";
@@ -1354,37 +1252,28 @@ const hug13 = "/images/departMent/humenities/gallery/hug13.jpg";
 const hug14 = "/images/departMent/humenities/gallery/hug14.jpg";
 const hug15 = "/images/departMent/humenities/gallery/hug15.jpg";
 
-
 const itpac1 = "/pdf/department/IT/it-odd/IT_PAC_Agenda Points.pdf";
 const itpac2 = "/pdf/department/IT/it-odd/IT_PAC_ATR.pdf";
 const itpac3 = "/pdf/department/IT/it-odd/IT_PAC_Constitution.pdf";
 const itpac4 = "/pdf/department/IT/it-odd/IT_PAC_MoM with Attendance Record.pdf";
-
 
 const itpac12 = "/pdf/department/IT/it-23-24/IT_PAC_Agenda Points.pdf";
 const itpac22 = "/pdf/department/IT/it-23-24/IT_PAC_ATR.pdf";
 const itpac32 = "/pdf/department/IT/it-23-24/IT_PAC_Constitution.pdf";
 const itpac42 = "/pdf/department/IT/it-23-24/IT_PAC_MoM with Attendance Record.pdf";
 
-
 const itpac123 = "/pdf/department/IT/it-24-25/IT_PAC_Agenda Points.pdf";
 const itpac223 = "/pdf/department/IT/it-24-25/IT_PAC_ATR.pdf";
 const itpac323 = "/pdf/department/IT/it-24-25/IT_PAC_Constitution.pdf";
 const itpac423 = "/pdf/department/IT/it-24-25/IT_PAC_MoM with Attendance Record.pdf";
 
-
-
 const aimlpac = "/pdf/department/ai-ml/pac/AIML & DS_PAC_2025 2026_EVEN.pdf";
-
 
 const aimlmag1 = "/pdf/department/ai-ml/magazines/Magazine_SPECTRUM_2022-23.pdf";
 const aimlmag2 = "/pdf/department/ai-ml/magazines/Magazine_SPECTRUM_2023_24.pdf";
 const aimlmag3 = "/pdf/department/ai-ml/magazines/Magazine_spectrum 24-25 (1).pdf";
 
-
 // const pacEC = "/pdf/department/electronics-engineering/pac/EC_PAC_2025-26 Even Semester.pdf";
-
-
 
 const iotfa1 = "/images/departMent/iot/new/gallery/IO.png";
 const iotfa2 = "/images/departMent/iot/new/gallery/IO2.png";
@@ -1394,28 +1283,21 @@ const iotfa5 = "/images/departMent/iot/new/gallery/IO5.png";
 
 const pragya = "/pdf/department/computer-application/PRAGYA-2026.pdf";
 
-
 const itpac1234 = "/pdf/department/IT/it-24-25_odd/IT_PAC_Agenda Points.pdf";
 const itpac2234 = "/pdf/department/IT/it-24-25_odd/IT_PAC_ATR.pdf";
 const itpac3234 = "/pdf/department/IT/it-24-25_odd/IT_PAC_Constitution.pdf";
 const itpac4234 = "/pdf/department/IT/it-24-25_odd/IT_PAC_MoM with Attendance Record.pdf";
 
-
 const mechpdf = "/pdf/department/mechanical-engineering/ME_MAGZINE_2024-25.pdf";
-
-
 
 const itmag = "/pdf/department/IT/magazines_new/CHRONICLE_IT Department Magazine_2022-23.pdf";
 const itmag1 = "/pdf/department/IT/magazines_new/CHRONICLE_IT Department Magazine_2023-24.pdf";
-
 
 const ec1 = "/pdf/department/electronics-engineering/EC_Magazine_2022-23.pdf";
 const ec2 = "/pdf/department/electronics-engineering/EC_Magazine_ 2023-24.pdf";
 const ec3 = "/pdf/department/electronics-engineering/EC_Magazine_2024-25.pdf";
 
-
 const eemag = "/pdf/department/electrical-engineering/EE magzine_Electra Vista session 2024-25  (1).pdf";
-
 
 export const DepartmentCseAiMLTabData: customTabDataTypes[] = [
   {
@@ -1523,7 +1405,6 @@ export const DepartmentCseAiMLTabData: customTabDataTypes[] = [
               listBold: "PO11: Life-Long Learning:",
               list: "- Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change. (WK8)",
             },
-
           ],
         },
         content: [
@@ -1549,8 +1430,7 @@ export const DepartmentCseAiMLTabData: customTabDataTypes[] = [
               {
                 id: 3,
                 bold: "PEO 4: ",
-                value:
-                  " To be a team player who has respect and consideration for all team members.",
+                value: " To be a team player who has respect and consideration for all team members.",
               },
             ],
           },
@@ -1612,8 +1492,7 @@ export const DepartmentCseAiMLTabData: customTabDataTypes[] = [
               designation: "Dr. Sadhna Rana, HOD & Associate Professor",
               email: "sadhanarana@gmail.com",
               orcid: "0009-0009-9211-3312",
-              aboutData:
-                `Dr. Sadhana Rana is serving as the Head of the
+              aboutData: `Dr. Sadhana Rana is serving as the Head of the
 Department and Associate Professor in the
 AIML, Data Science Department, bringing over
 15 years of extensive teaching experience in the
@@ -1665,8 +1544,7 @@ institution.`,
               designation: "Er. Aayush Pratap Singh, Assistant Professor",
               email: "aayush.cs@srmcem.ac.in",
               orcid: "0009-0009-5347-0739",
-              aboutData:
-                `Er. Aayush Pratap Singh is working as an
+              aboutData: `Er. Aayush Pratap Singh is working as an
 assistant professor. He has teaching experience
 of 5 years in wellborn soft. He has working
 experience of 2.5 year as software testing
@@ -1692,8 +1570,7 @@ python programming.`,
               designation: "Er. Himashi Singh, Assistant Professor",
               email: "himanshisingh.cs@srmcem.ac.in",
               orcid: "0009-0007-0592-3313",
-              aboutData:
-                `Er. Himanshi Singh has a graduate and
+              aboutData: `Er. Himanshi Singh has a graduate and
 postgraduate degree in Computer Science and
 Engineering. She has a Bachelor of Computer
 Application from Punjab Technical University,
@@ -1713,18 +1590,18 @@ professional success. She has published a
 chapter in the book Recent Trends in Science
 and Technology.`,
             },
-//             {
-//               id: 4,
-//               imgSrc: dsfa20,
-//               education: "BSc (Computer Science), MCA",
-//               designation: "Er. Priyanshi Dwivedi, Assistant Professor",
-//               email: "priyanshidwivedi.ca@srmcem.ac.in",
-//               orcid: "0009-0003-9382-8404",
-//               aboutData:
-//                 `Er. Priyanshi Dwivedi is working as an Assistant Professor in the department of CSE (AIML/DS). She has more than one year of experience. She has one patent and also published ample of Research papers in various reputed journals and international conferences. She is also completed various faculty development program such as “UHV IN TECHNICAL EDUCATION” By AICTE.
-// She has done B.SC (Computer Science) from University of Lucknow and also completed MCA from University of Lucknow. Her areas of interest include Discrete Mathematics, Theory of Automata, DAA, Software Engineering, Database Management System, Cyber Security, operating System, Computer networks. She has taught Discrete mathematics, Database Management System, Computer networks, Application of soft computing, Cloud computing. She also guided various engineering project in the field of computer science and engineering. 
-// `,
-//             },
+            //             {
+            //               id: 4,
+            //               imgSrc: dsfa20,
+            //               education: "BSc (Computer Science), MCA",
+            //               designation: "Er. Priyanshi Dwivedi, Assistant Professor",
+            //               email: "priyanshidwivedi.ca@srmcem.ac.in",
+            //               orcid: "0009-0003-9382-8404",
+            //               aboutData:
+            //                 `Er. Priyanshi Dwivedi is working as an Assistant Professor in the department of CSE (AIML/DS). She has more than one year of experience. She has one patent and also published ample of Research papers in various reputed journals and international conferences. She is also completed various faculty development program such as “UHV IN TECHNICAL EDUCATION” By AICTE.
+            // She has done B.SC (Computer Science) from University of Lucknow and also completed MCA from University of Lucknow. Her areas of interest include Discrete Mathematics, Theory of Automata, DAA, Software Engineering, Database Management System, Cyber Security, operating System, Computer networks. She has taught Discrete mathematics, Database Management System, Computer networks, Application of soft computing, Cloud computing. She also guided various engineering project in the field of computer science and engineering.
+            // `,
+            //             },
             {
               id: 5,
               imgSrc: Ayodhya,
@@ -1732,8 +1609,7 @@ and Technology.`,
               designation: "Er. Ayodhya Prasad, Assistant Professor",
               email: "",
               orcid: "",
-              aboutData:
-                `Er. Ayodhya Prasad is associated with
+              aboutData: `Er. Ayodhya Prasad is associated with
 SRMCEM as an Assistant Professor at AIML
 &amp;amp; DS Deptt., where he engages in
 teaching, mentoring, and academic support.
@@ -1762,8 +1638,7 @@ international journals.`,
               designation: "Er. Shubham Kumar, Assistant Professor",
               email: "shubham.cs@srmcem.ac.in",
               orcid: "0009-0000-7419-6235",
-              aboutData:
-                `Er. Shubham Kumar is currently working as an
+              aboutData: `Er. Shubham Kumar is currently working as an
 Assistant Professor. He holds an M.Tech in
 Software Engineering from Babasaheb
 Bhimrao Ambedkar University, Lucknow (UP),
@@ -1820,8 +1695,7 @@ Indicator” (Design Application No.: 447702-
               designation: "Asit Kumar Gahalaut",
               email: "",
               orcid: "",
-              aboutData:
-                `Er. Asit Kumar Gahalaut is a Postgraduate in
+              aboutData: `Er. Asit Kumar Gahalaut is a Postgraduate in
 Computer Science and Engineering with
 specialization Software, Engineering from
 renowned Punjab Engineering College
@@ -1844,8 +1718,7 @@ and recently associated with this department.`,
               designation: "Er. Rizwana Iqbal Ansari, Assistant Professor",
               email: "rizwanaansari.ca@srmcem.ac.in ",
               orcid: "0009-0000-7829-3358",
-              aboutData:
-                `Er. Rizwana Iqbal Ansari is working as an
+              aboutData: `Er. Rizwana Iqbal Ansari is working as an
 Assistant Professor at SRMCEM.She has completed her MCA from Lal Bahadur Shastri
 Institute of Management and Development
 Studies (LBSIMDS), Lucknow, and her BCA
@@ -1863,8 +1736,7 @@ Analytics, and Database Management Systems.`,
               designation: "Er. Kavya Singh, Assistant Professor ",
               email: "",
               orcid: "",
-              aboutData:
-                `
+              aboutData: `
 Er. Kavya Singh is an Assistant Professor in
 the AIML &amp;amp; DS Department at SRMCEM
 with 1 year of teaching experience. She
@@ -1889,8 +1761,7 @@ international journals.
               designation: "Er. Nitish Kr Maurya, Assistant Professor",
               email: "nitishmaurya.ca@srmcem.ac.in",
               orcid: "0009-00036065-6298",
-              aboutData:
-                `Er. Nitish Kr Maurya is working as an
+              aboutData: `Er. Nitish Kr Maurya is working as an
 Assistant Professor at SRMCEM.he has
 completed his Bachelor of Computer
 Applications from Dr.RML Avadh University
@@ -2052,6 +1923,33 @@ software development.`,
             //   aboutData:
             //     "Mr. Abhijit Ditya Prakash is currently serving as an Assistant Professor at SRMCEM, located in Lucknow, Uttar Pradesh. He is affiliated with the Department of Computer Science and Engineering (CSE), with a specialization in Artificial Intelligence and Machine Learning.",
             // },
+            {
+              id: 11,
+              imgSrc: Nitish_pandey, // Replace with the correct image variable if available
+              education: "M.C.A (Software Engineering)",
+              designation: "Er. Neetesh Pandey, Assistant Professor",
+              email: "neeteshpandey.cs@srmcem.ac.in",
+              orcid: "0009-0008-7835-0242",
+              aboutData: `Er. Neetesh Pandey is working as an Assistant Professor in the Department of Computer Science & Engineering at SRMCEM. He completed his Master of Computer Applications (MCA) from Integral University, Lucknow, and Bachelor of Computer Applications (BCA) from Babu Banarasi Das University, Lucknow. His areas of interest include Discrete Structures and Theory of Logic, Cyber Security, Computer Networks, Operating Systems, Database Management Systems, Web Technologies, Data Structures, Java, Python, C, C++, Digital Electronics, Design and Analysis of Algorithms, Software Engineering, Data Analytics, Computer Organization & Architecture, and Deep Learning. He is committed to promoting quality education through outcome-based teaching and hands-on learning experiences.`,
+            },
+            {
+              id: 12,
+              imgSrc: IshikaPal, // Replace with the correct image import
+              education: "M.C.A (Software Engineering)",
+              designation: "Er. Ishika Pal, Assistant Professor",
+              email: "iahikapal.cs@srmcem.ac.in",
+              orcid: "",
+              aboutData: `Er. Ishika Pal is working as an Assistant Professor in the Department of Computer Science & Engineering at SRMCEM. She completed her Master of Computer Applications (MCA) from Babu Banarasi Das University, Lucknow, and Bachelor of Computer Applications (BCA) from Pt. Sukhraj Raghunathi Institute of Education & Technology, Pratapgarh. Her areas of interest include Artificial Intelligence, Machine Learning, Cyber Security, Computer Networks, Operating Systems, Database Management Systems, Web Technologies, Data Structures, Software Engineering, Data Analytics, and Computer Organization & Architecture. She is committed to promoting quality education through outcome-based teaching and hands-on learning experiences.`,
+            },
+            {
+              id: 13,
+              imgSrc: SakshiRastogi, // Replace with the correct image import
+              education: "M.Tech. (Software Engineering)",
+              designation: "Er. Sakshi Rastogi, Assistant Professor",
+              email: "sakshirastogi.cs@srmcem.ac.in",
+              orcid: "0009-0009-6773-2664",
+              aboutData: `Er. Sakshi Rastogi is working as an Assistant Professor at SRMCEM with 3 years and 11 months of teaching experience. She completed her M.Tech. in Software Engineering from Babu Banarasi Das University, Lucknow, and B.Tech. in Computer Science & Engineering from Invertis University, Bareilly. Her areas of interest include Java, Artificial Intelligence, Machine Learning, Generative AI, and Software Engineering. She has mentored numerous student projects, published two research papers in reputed conferences, contributed one book chapter, and served as an Organizing Committee Member for CVR 2023. She is also the author of the book "Principles of Generative AI: A Practical Guide to Modern Generative AI" and served as a Session Chair at the International Conference on Sustainable Engineering & AI Solutions (ICSEAIS-2026).`,
+            },
           ],
         },
       },
@@ -2913,7 +2811,6 @@ software development.`,
                     titleOfCertification: "Title Of Certification",
                     typeOfCertification: "Type Of Certification",
                     dateOfConduction: "Date Of Conduction",
-                    
                   },
                 ],
                 rowData: [
@@ -2924,7 +2821,6 @@ software development.`,
                     titleOfCertification: "Won 1st Position in Line Follower at botFiesta 2025, MUIT",
                     typeOfCertification: "Robotics Competition",
                     dateOfConduction: "Nov 2025",
-                   
                   },
                   {
                     id: 2,
@@ -2933,7 +2829,6 @@ software development.`,
                     titleOfCertification: "2nd Runner Up in Drone at INFOTSAV 2025 IIITM Gwalior",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Sept 2025",
-                    
                   },
                   {
                     id: 3,
@@ -2942,7 +2837,6 @@ software development.`,
                     titleOfCertification: "1st Runner up at IICH 2025 Organised by BIET",
                     typeOfCertification: "Hackathon",
                     dateOfConduction: "Nov 2025",
-                    
                   },
                   {
                     id: 4,
@@ -2951,7 +2845,6 @@ software development.`,
                     titleOfCertification: "1st Position in Armageddon 15Kg at Cognizance 2025, IIT Roorkee",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Sept 2025",
-                    
                   },
                   {
                     id: 5,
@@ -2960,7 +2853,6 @@ software development.`,
                     titleOfCertification: "2nd Position in Armageddon 30Kg at Cognizance 2025, IIT Roorkee",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Aug 2025",
-                    
                   },
                   {
                     id: 6,
@@ -2969,7 +2861,6 @@ software development.`,
                     titleOfCertification: "1st Runner Up in 30Kg Bots Combat at Technooxian World Cup 9.0, Noida",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Aug 2025",
-                    
                   },
                   {
                     id: 7,
@@ -2978,7 +2869,6 @@ software development.`,
                     titleOfCertification: "1st Place – 8 kg Robo War - Hosted at Indian Institute of Technology (BHU) Varanasi as part of TECHNEX 2K26",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Feb 2026",
-                   
                   },
                   {
                     id: 8,
@@ -2987,7 +2877,6 @@ software development.`,
                     titleOfCertification: "1st Position in the Drone Race at TECHNEX 2K26 organized at Indian Institute of Technology (BHU) Varanasi",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Feb 2026",
-                    
                   },
                   {
                     id: 9,
@@ -2996,7 +2885,6 @@ software development.`,
                     titleOfCertification: "2nd Position in Inter-Institutional Idea Challenge Hackathon at BIET Lucknow",
                     typeOfCertification: "Hackathon",
                     dateOfConduction: "Nov 2025",
-                    
                   },
                   {
                     id: 10,
@@ -3005,7 +2893,6 @@ software development.`,
                     titleOfCertification: "15kg Robo War at GANTAVYA",
                     typeOfCertification: "Robotics",
                     dateOfConduction: "Feb 2026",
-                   
                   },
                   {
                     id: 11,
@@ -3014,7 +2901,14 @@ software development.`,
                     titleOfCertification: "Indian AI Buildathon, A nationwide AI innovation challenge conducted at the India AI Impact Summit 2026",
                     typeOfCertification: "Buildathon",
                     dateOfConduction: "Feb 2026",
-                    
+                  },
+                  {
+                    id: 12,
+                    sNo: 12,
+                    name: "Ms. Rizwana Iqbal Ansari",
+                    titleOfCertification: "Universal Human Values-II (UHV-II)",
+                    typeOfCertification: "Capacity Building Programme (CBP) cum Faculty Development Programme (FDP)",
+                    dateOfConduction: "June 2026",
                   },
                 ],
               },
@@ -3046,24 +2940,24 @@ software development.`,
                     dateOfConduction: "August 2025",
                     organisedBy: "NIT Puducherry",
                   },
-                  {
-                    id: 3,
-                    sNo: 3,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "10th International Conference on Human Values in Higher Education (ICHVHE 2025)",
-                    typeOfCertification: "International Conference",
-                    dateOfConduction: "December 2025",
-                    organisedBy: "AICTE",
-                  },
-                  {
-                    id: 4,
-                    sNo: 4,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Internet society membership",
-                    typeOfCertification: "Membership",
-                    dateOfConduction: "August 2025",
-                    organisedBy: "Internet Society",
-                  },
+                  // {
+                  //   id: 3,
+                  //   sNo: 3,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "10th International Conference on Human Values in Higher Education (ICHVHE 2025)",
+                  //   typeOfCertification: "International Conference",
+                  //   dateOfConduction: "December 2025",
+                  //   organisedBy: "AICTE",
+                  // },
+                  // {
+                  //   id: 4,
+                  //   sNo: 4,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Internet society membership",
+                  //   typeOfCertification: "Membership",
+                  //   dateOfConduction: "August 2025",
+                  //   organisedBy: "Internet Society",
+                  // },
                   {
                     id: 5,
                     sNo: 5,
@@ -3073,15 +2967,15 @@ software development.`,
                     dateOfConduction: "December 2025",
                     organisedBy: "Amity University",
                   },
-                  {
-                    id: 6,
-                    sNo: 6,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Internet society membership",
-                    typeOfCertification: "Membership",
-                    dateOfConduction: "August 2025",
-                    organisedBy: "Internet Society",
-                  },
+                  // {
+                  //   id: 6,
+                  //   sNo: 6,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Internet society membership",
+                  //   typeOfCertification: "Membership",
+                  //   dateOfConduction: "August 2025",
+                  //   organisedBy: "Internet Society",
+                  // },
                 ],
               },
             },
@@ -3121,24 +3015,24 @@ software development.`,
                     dateOfConduction: "Oct 2025",
                     organisedBy: "SRMCEM",
                   },
-                  {
-                    id: 3,
-                    sNo: 3,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Next Generation Technology Agentic AI / UIV",
-                    typeOfCertification: "Two-Day Workshop / AICTE UIV FDP",
-                    dateOfConduction: "August 2025",
-                    organisedBy: "SRMU / SRMCEM, LUCKNOW",
-                  },
-                  {
-                    id: 4,
-                    sNo: 4,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Big Data Analytics Server Machine for Cloud Computing",
-                    typeOfCertification: "Design Patent",
-                    dateOfConduction: "July 2025",
-                    organisedBy: "The Patent Office, GOI",
-                  },
+                  // {
+                  //   id: 3,
+                  //   sNo: 3,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Next Generation Technology Agentic AI / UIV",
+                  //   typeOfCertification: "Two-Day Workshop / AICTE UIV FDP",
+                  //   dateOfConduction: "August 2025",
+                  //   organisedBy: "SRMU / SRMCEM, LUCKNOW",
+                  // },
+                  // {
+                  //   id: 4,
+                  //   sNo: 4,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Big Data Analytics Server Machine for Cloud Computing",
+                  //   typeOfCertification: "Design Patent",
+                  //   dateOfConduction: "July 2025",
+                  //   organisedBy: "The Patent Office, GOI",
+                  // },
                   {
                     id: 5,
                     sNo: 5,
@@ -3184,37 +3078,29 @@ software development.`,
                     dateOfConduction: "Feb 2026",
                     organisedBy: "edunet",
                   },
-                  {
-                    id: 10,
-                    sNo: 10,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Internet society membership",
-                    typeOfCertification: "Membership",
-                    dateOfConduction: "August 2025",
-                    organisedBy: "Internet Society",
-                  },
-                  {
-                    id: 11,
-                    sNo: 11,
-                    name: "Ms. Priyanshi Dwivedi",
-                    titleOfCertification: "Inculkating Universal Human Values in Technical Education",
-                    typeOfCertification: "3-day Face-to-Face FDP",
-                    dateOfConduction: "August 2025",
-                    organisedBy: "AICTE",
-                  },
+                  // {
+                  //   id: 10,
+                  //   sNo: 10,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Internet society membership",
+                  //   typeOfCertification: "Membership",
+                  //   dateOfConduction: "August 2025",
+                  //   organisedBy: "Internet Society",
+                  // },
+                  // {
+                  //   id: 11,   
+                  //   sNo: 11,
+                  //   name: "Ms. Priyanshi Dwivedi",
+                  //   titleOfCertification: "Inculkating Universal Human Values in Technical Education",
+                  //   typeOfCertification: "3-day Face-to-Face FDP",
+                  //   dateOfConduction: "August 2025",
+                  //   organisedBy: "AICTE",
+                  // },
                 ],
               },
             },
-
-            
-
-
-
           ],
         },
-
-
-
       },
       {
         id: 6,
@@ -3320,9 +3206,9 @@ software development.`,
               listBold: "Magazine_SPECTRUM_2022_23",
               path: aimlmag1,
             },
-             {
+            {
               id: 0,
-               listBold: "Magazine_SPECTRUM_2023_24",
+              listBold: "Magazine_SPECTRUM_2023_24",
               path: aimlmag2,
             },
             {
